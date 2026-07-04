@@ -1,26 +1,6 @@
 [
   {
-    "id": "movie_1783154390452",
-    "title": "Alpha",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
-    "rating": "",
-    "genres": "Action | Thriller",
-    "stars": "Alia Bhatt, Sharvari, Anil Kapoor, Bobby Deol",
-    "director": "Shiv Rawail",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#6ketxx",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ]
-  },
-  {
-    "id": "movie_44d74573d7",
+    "id": "movie_8574820b46",
     "title": "Made in Korea",
     "year": "2026",
     "type": "Movie",
@@ -42,51 +22,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/made-in-korea-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_bb9d81672d",
-    "title": "Parasakthi",
-    "year": "2026",
-    "type": "Movie",
-    "img": "https://i1.wp.com/catimages.org/images/2026/03/12/Parasakthi-2026-HIndi-Dubbed-Trailer-HDHub4u.Ms.jpg?ssl=1",
-    "rating": "",
-    "genres": "Action | Drama | History",
-    "stars": "Sivakarthikeyan, Ravi Mohan, Atharvaa Murali",
-    "director": "",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/parasakthi-2026-hindi-dubbed-trailer/"
-  },
-  {
-    "id": "movie_f8ceb60078",
-    "title": "Sankalp",
-    "year": "",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg",
-    "rating": "",
-    "genres": "",
-    "stars": "",
-    "director": "",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#nt6hdf",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/sankalp-season-1-webrip-hindi-full-series/"
-  },
-  {
-    "id": "movie_269b5b84e9",
+    "id": "movie_a62926964b",
     "title": "Pennum Porattum",
     "year": "2026",
     "type": "Movie",
@@ -108,29 +44,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/pennum-porattum-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_d848ff5d27",
-    "title": "Turbulence",
-    "year": "2025",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
-    "rating": "",
-    "genres": "Thriller | Action | Adventure | Drama | Fantasy",
-    "stars": "Jeremy Irvine, Olga Kurylenko, Kelsey Grammer",
-    "director": "Claudio Fäh",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#pd1ucy",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/turbulence-2025-hindi-webrip-full-movie/"
-  },
-  {
-    "id": "movie_b293bbaa28",
+    "id": "movie_9673bb5005",
     "title": "Funky",
     "year": "2026",
     "type": "Movie",
@@ -152,139 +66,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/funky-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_79b992fe86",
-    "title": "The Taj Story",
-    "year": "2025",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
-    "rating": "",
-    "genres": "Drama",
-    "stars": "Paresh Rawal, Amruta Khanvilkar, Namit Das",
-    "director": "Tushar Amrish Goel",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#huw9pa",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/the-taj-story-2025-hindi-webrip-full-movie/"
-  },
-  {
-    "id": "movie_04faa1d282",
-    "title": "Aspirants",
-    "year": "",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/uCMUO2bOuPGG4VN0I3DTWz8bjEd.jpg",
-    "rating": "",
-    "genres": "Drama",
-    "stars": "Naveen Kasturia, Shivankit Singh Parihar, Sunny Hinduja",
-    "director": "",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/aspirants-season-3-hindi-webrip-all-episodes/"
-  },
-  {
-    "id": "movie_7c7fa4054f",
-    "title": "Paan Singh Tomar",
-    "year": "2012",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w400/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
-    "rating": "",
-    "genres": "Crime | Drama",
-    "stars": "Irrfan Khan, Mahie Gill, Vipin Sharma",
-    "director": "Tigmanshu Dhulia",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#vyuesk",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/paan-singh-tomar-2012-webrip-hindi-full-movie/"
-  },
-  {
-    "id": "movie_dd8556966b",
-    "title": "Good Fortune",
-    "year": "2025",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
-    "rating": "",
-    "genres": "Comedy | Fantasy",
-    "stars": "Keanu Reeves, Aziz Ansari, Seth Rogen",
-    "director": "Aziz Ansari",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#3zlepc",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/good-fortune-2025-hindi-bluray-full-movie/"
-  },
-  {
-    "id": "movie_4d05116e6d",
-    "title": "Fatal Seduction",
-    "year": "",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/8tdvvswffPzXqbV5auzrMUzLmPY.jpg",
-    "rating": "",
-    "genres": "Crime | Drama | Mystery",
-    "stars": "Kgomotso Christopher, Nathaniel Ramabulana, Prince Grootboom",
-    "director": "",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#pd1ape",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/fatal-seduction-season-3-hindi-webrip-all-episodes/"
-  },
-  {
-    "id": "movie_6189640045",
-    "title": "That Night",
-    "year": "",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
-    "rating": "",
-    "genres": "",
-    "stars": "",
-    "director": "",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#5fu1kq",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/that-night-season-1-webrip-hindi-full-series/"
-  },
-  {
-    "id": "movie_e61aa831d0",
+    "id": "movie_781af42548",
     "title": "Parasakthi",
     "year": "2026",
     "type": "Movie",
@@ -306,315 +88,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/parasakthi-2026-hindi-hq-dubbed-webrip-full-movie/"
   },
   {
-    "id": "movie_a1de957052",
-    "title": "Ghost in the Shell: Arise – Border 2: Ghost Whispers",
-    "year": "2013",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.2.Ghost.Whispers.2013.jpg",
-    "rating": "",
-    "genres": "Animation, Action, Sci-Fi",
-    "stars": "Maaya Sakamoto, Ikkyû Jaku, Ken’ichirô Matsuda",
-    "director": "Atsushi Takeuchi, Kazuchika Kise",
-    "langs": "Hindi, Japanese",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/ghost-in-the-shell-arise-border-2-ghost-whispers-2013-webrip-hindi-full-movie/"
-  },
-  {
-    "id": "movie_5e67cf9127",
-    "title": "Ghost in the Shell: Arise – Border 3: Ghost Tears",
-    "year": "2014",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.3.Ghost.Tears.2014..jpg",
-    "rating": "",
-    "genres": "Animation, Action, Sci-Fi",
-    "stars": "Maaya Sakamoto, Ikkyû Jaku, Ken’ichirô Matsuda",
-    "director": "Kazuchika Kise",
-    "langs": "Hindi, Japanese",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/ghost-in-the-shell-arise-border-3-ghost-tears-2014-web-dl-hindi-dd2-0-japanese-1080p-720p-480p-dual-audio-x264-esubs-full-movie/"
-  },
-  {
-    "id": "movie_3ce15afbed",
-    "title": "Ghost in the Shell: Arise – Border 4: Ghost Stands Alone",
-    "year": "2014",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.4.Ghosts.Stands.Alone.2014.jpg",
-    "rating": "",
-    "genres": "Animation, Action, Sci-Fi",
-    "stars": "Maaya Sakamoto, Ikkyû Jaku, Ken’ichirô Matsuda",
-    "director": "Susumu Kudô, Kazuchika Kise",
-    "langs": "Hindi, Japanese",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/ghost-in-the-shell-arise-border-4-ghost-stands-alone-2014-webrip-hindi-full-movie/"
-  },
-  {
-    "id": "movie_2eab2809ae",
-    "title": "Legend of the Demon Cat",
-    "year": "2017",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Legend.of.the.Demon.Cat.2017..jpg",
-    "rating": "",
-    "genres": "Adventure, Drama, Family",
-    "stars": "Xuan Huang, Shôta Sometani, Yuqi Zhang",
-    "director": "Kaige Chen",
-    "langs": "Hindi, Chinese",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/legend-of-the-demon-cat-2017-hindi-bluray-full-movie/"
-  },
-  {
-    "id": "movie_588bc94cd9",
-    "title": "Megamind",
-    "year": "2010",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Megamind.2010.jpg",
-    "rating": "",
-    "genres": "Animation, Action, Adventure",
-    "stars": "Will Ferrell, Jonah Hill, Brad Pitt",
-    "director": "Tom McGrath",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/megamind-2010-hindi-bluray-full-movie/"
-  },
-  {
-    "id": "movie_d64aab0895",
-    "title": "Merry Little Batman",
-    "year": "2023",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Merry.Little.Batman.2023..jpg",
-    "rating": "",
-    "genres": "Animation, Action, Family, Comedy",
-    "stars": "Yonas Kibreab, Luke Wilson, James Cromwell, David Hornsby",
-    "director": "Mike Roth",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/merry-little-batman-2023-hindi-bluray-full-movie/"
-  },
-  {
-    "id": "movie_a5ccd535d2",
-    "title": "Ghost in the Shell: Arise – Border 1: Ghost Pain",
-    "year": "2013",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.1.Ghost.Pain.2013..jpg",
-    "rating": "",
-    "genres": "Animation, Action, Sci-Fi",
-    "stars": "Maaya Sakamoto, Ikkyû Jaku, Ken’ichirô Matsuda",
-    "director": "Masahiko Murata, Kazuchika Kise",
-    "langs": "Hindi, Japanese",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/ghost-in-the-shell-arise-border-1-ghost-pain-2013-webrip-hindi-full-movie/"
-  },
-  {
-    "id": "movie_7470cbd9d3",
-    "title": "Now You See Me: Now You Don’t",
-    "year": "2025",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/mRWxtgMNy01gRVMZpBc4C4WKylY.jpg",
-    "rating": "",
-    "genres": "Thriller | Crime",
-    "stars": "Jesse Eisenberg, Dominic Sessa, Ariana Greenblatt",
-    "director": "Ruben Fleischer",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#nthbif",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/now-you-see-me-now-you-dont-2025-hindi-bluray-full-movie/"
-  },
-  {
-    "id": "movie_0df217d721",
-    "title": "Sardar",
-    "year": "2022",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w400/e1gmk77vXHavz9PFj9xt39vtyrc.jpg",
-    "rating": "",
-    "genres": "Thriller | Action",
-    "stars": "Karthi, Raashii Khanna, Rajisha Vijayan",
-    "director": "P. S. Mithran",
-    "langs": "Hindi, Tamil",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#9nxfvi",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/sardar-2022-uncut-webrip-hindi-full-movie/"
-  },
-  {
-    "id": "movie_08216812dc",
-    "title": "Predator 2",
-    "year": "1990",
-    "type": "Movie",
-    "img": "https://imgshare.info/images/2026/03/17/Predator.2.1990.jpg",
-    "rating": "",
-    "genres": "Action, Horror, Sci-Fi",
-    "stars": "Danny Glover, Gary Busey, Kevin Peter Hall",
-    "director": "Stephen Hopkins",
-    "langs": "Hindi, English",
-    "Movie": [
-      {
-        "server1": "",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/predator-2-1990-hindi-bluray-full-movie/"
-  },
-  {
-    "id": "movie_b7a0a15fcc",
-    "title": "Made in Korea",
-    "year": "2026",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w400/foEObhyAMM3dxYeBEr242EdQDB7.jpg",
-    "rating": "",
-    "genres": "Romance | Drama",
-    "stars": "Priyanka Arul Mohan, Park Hye-jin, Rishikanth",
-    "director": "Ra. Karthik",
-    "langs": "Hindi, Tamil",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#gp3voh",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/made-in-korea-2026-webrip-hindi-full-movie/"
-  },
-  {
-    "id": "movie_4eb70ae7bc",
-    "title": "Pennum Porattum",
-    "year": "2026",
-    "type": "Movie",
-    "img": "https://catimages.co/images/2026/03/13/Pennum-Porattum-2026-HDHub4u.Ms.jpg",
-    "rating": "",
-    "genres": "Comedy | Drama",
-    "stars": "Subash Chandran, Rajesh Madhavan, Raina Radhakrishnan",
-    "director": "Rajesh Madhavan",
-    "langs": "Hindi, Malayalam",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#i9vrwo",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/pennum-porattum-2026-hindi-webrip-full-movie/"
-  },
-  {
-    "id": "movie_1e3b743d2e",
-    "title": "Funky",
-    "year": "2026",
-    "type": "Movie",
-    "img": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
-    "rating": "",
-    "genres": "Comedy | Romance | Drama",
-    "stars": "Vishwak Sen, Kayadu Lohar, Naresh",
-    "director": "Anudeep",
-    "langs": "Hindi, Telugu",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#6l5szy",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/funky-2026-hindi-webrip-full-movie/"
-  },
-  {
-    "id": "movie_841656b373",
-    "title": "Parasakthi",
-    "year": "2026",
-    "type": "Movie",
-    "img": "https://catimages.co/images/2026/03/14/Parasakthi-2025-Hindi-Dubbed-Full-Movie-HDHub4u.Ms.jpg",
-    "rating": "",
-    "genres": "Action | Drama | History",
-    "stars": "Sivakarthikeyan, Ravi Mohan, Atharvaa Murali",
-    "director": "Sudha Kongara",
-    "langs": "Hindi",
-    "Movie": [
-      {
-        "server1": "https://hubstream.art/#mstsrc",
-        "server2": "",
-        "server3": "",
-        "server4": "",
-        "server5": ""
-      }
-    ],
-    "sourceUrl": "https://new2.hdhub4u.cl/parasakthi-2026-hindi-hq-dubbed-webrip-full-movie/"
-  },
-  {
-    "id": "movie_d56a2a2466",
+    "id": "movie_4f776b9aa1",
     "title": "Preschool",
     "year": "2026",
     "type": "Movie",
@@ -636,7 +110,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/preschool-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_bb1bbca0fa",
+    "id": "movie_aeb3bd0157",
     "title": "One Mile: Chapter Two",
     "year": "2026",
     "type": "Movie",
@@ -658,7 +132,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/one-mile-chapter-two-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_1322acac79",
+    "id": "movie_af2b7ed158",
     "title": "Deor De Viaah Vich Nach Lain De",
     "year": "2026",
     "type": "Movie",
@@ -680,7 +154,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/deor-de-viaah-vich-nach-lain-de-2026-webrip-punjabi-full-movie/"
   },
   {
-    "id": "movie_fe0a27968a",
+    "id": "movie_ea94ab3e83",
     "title": "Border 2",
     "year": "2026",
     "type": "Movie",
@@ -702,7 +176,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/border-2-2026-hindi-webrip-movie/"
   },
   {
-    "id": "movie_3d44ce0913",
+    "id": "movie_43142a1918",
     "title": "Vishnu Vinyasam",
     "year": "2026",
     "type": "Movie",
@@ -724,7 +198,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/vishnu-vinyasam-2026-web-dl-hindi-dd5-1-telugu-4k-1080p-720p-480p-dual-audio-x264-10bit-hevc-full-movie/"
   },
   {
-    "id": "movie_abd32e8d46",
+    "id": "movie_1f72a1fa58",
     "title": "Peaky Blinders: The Immortal Man",
     "year": "2026",
     "type": "Movie",
@@ -746,7 +220,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/peaky-blinders-the-immortal-man-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_32ecc170a4",
+    "id": "movie_152abf17ea",
     "title": "Agent Zeta",
     "year": "2026",
     "type": "Movie",
@@ -768,7 +242,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/agent-zeta-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_4a73630500",
+    "id": "movie_e867d7c04f",
     "title": "O’ Romeo",
     "year": "2026",
     "type": "Movie",
@@ -790,7 +264,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/o-romeo-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_38764604b9",
+    "id": "movie_22f6fe746a",
     "title": "Mardaani 3",
     "year": "2026",
     "type": "Movie",
@@ -812,7 +286,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/mardaani-3-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_ffd114417d",
+    "id": "movie_1de5b7c119",
     "title": "Dhurandhar: The Revenge",
     "year": "2026",
     "type": "Movie",
@@ -834,7 +308,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/dhurandhar-the-revenge-2026-hindi-v2-hdtc-full-movie/"
   },
   {
-    "id": "movie_7b6e0ecf81",
+    "id": "movie_569bbd5328",
     "title": "The Red Line",
     "year": "2026",
     "type": "Movie",
@@ -856,7 +330,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/the-red-line-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_ba58a808ec",
+    "id": "movie_913e2aae5d",
     "title": "Scream 7",
     "year": "2026",
     "type": "Movie",
@@ -878,7 +352,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/scream-7-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_91e48dcdaa",
+    "id": "movie_e3031595c7",
     "title": "My Lord",
     "year": "2026",
     "type": "Movie",
@@ -900,7 +374,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/my-lord-2026-web-dl-hindi-full-movie/"
   },
   {
-    "id": "movie_4c52bec56d",
+    "id": "movie_0a9e198306",
     "title": "Humint",
     "year": "2026",
     "type": "Movie",
@@ -922,7 +396,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/humint-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_63a0c6cca0",
+    "id": "movie_d918bb9c16",
     "title": "Happy Patel: Khatarnak Jasoos",
     "year": "2026",
     "type": "Movie",
@@ -944,7 +418,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/happy-patel-khatarnak-jasoos-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_8bae585363",
+    "id": "movie_5f10a3eab3",
     "title": "Crime 101",
     "year": "2026",
     "type": "Movie",
@@ -966,7 +440,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/crime-101-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_44ae37a40f",
+    "id": "movie_12751d886c",
     "title": "Vadh 2",
     "year": "2026",
     "type": "Movie",
@@ -988,7 +462,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/vadh-2-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_ee6a45e8d2",
+    "id": "movie_1e26903471",
     "title": "Mrithyunjay",
     "year": "2026",
     "type": "Movie",
@@ -1010,7 +484,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/mrithyunjay-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_7fca253e0a",
+    "id": "movie_e2e972e6f4",
     "title": "Sampradayini Suppini Suddapoosani",
     "year": "2026",
     "type": "Movie",
@@ -1032,7 +506,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/sampradayini-suppini-suddapoosani-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_3a994e2deb",
+    "id": "movie_d0b2cf1bcb",
     "title": "Bhabiji Ghar Par Hain: Fun on the Run",
     "year": "2026",
     "type": "Movie",
@@ -1054,7 +528,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/bhabiji-ghar-par-hain-fun-on-the-run-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_33cf83cb98",
+    "id": "movie_143a7bc2f6",
     "title": "Feel My Voice",
     "year": "2026",
     "type": "Movie",
@@ -1076,7 +550,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/feel-my-voice-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_0c2b1b97f9",
+    "id": "movie_e5bd7b8bc4",
     "title": "Bhartha Mahasayulaku Wignyapthi",
     "year": "2026",
     "type": "Movie",
@@ -1098,7 +572,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/bhartha-mahasayulaku-wignyapthi-2026-hindi-hq-dubbed-webrip-full-movie/"
   },
   {
-    "id": "movie_a89ec85779",
+    "id": "movie_6cab4cc456",
     "title": "Repu Udayam 10 Gantalaku",
     "year": "2026",
     "type": "Movie",
@@ -1120,7 +594,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/repu-udayam-10-gantalaku-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_073b9c71e1",
+    "id": "movie_697db890f8",
     "title": "Do Not Enter",
     "year": "2026",
     "type": "Movie",
@@ -1142,7 +616,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/do-not-enter-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_fa93c963a7",
+    "id": "movie_b7a919c887",
     "title": "Tu Yaa Main",
     "year": "2026",
     "type": "Movie",
@@ -1164,7 +638,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/tu-yaa-main-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_42cfdc66a3",
+    "id": "movie_7fdfa50644",
     "title": "Thaai Kizhavi",
     "year": "2026",
     "type": "Movie",
@@ -1186,7 +660,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/thaai-kizhavi-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_1a7336660f",
+    "id": "movie_f4763ecdce",
     "title": "Toh Ti Ani Fuji",
     "year": "2026",
     "type": "Movie",
@@ -1208,7 +682,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/toh-ti-ani-fuji-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_f6eb878588",
+    "id": "movie_e2cfd3e40e",
     "title": "Everybody Loves Sohrab Handa",
     "year": "2026",
     "type": "Movie",
@@ -1230,7 +704,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/everybody-loves-sohrab-handa-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_7e3de4b0ac",
+    "id": "movie_6c392e475b",
     "title": "Jana Nayagan",
     "year": "2026",
     "type": "Movie",
@@ -1252,7 +726,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/jana-nayagan-2026-tamil-web-leak-full-movie/"
   },
   {
-    "id": "movie_c47766e875",
+    "id": "movie_bc71a08dea",
     "title": "Thrash",
     "year": "2026",
     "type": "Movie",
@@ -1274,7 +748,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/thrash-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_f9ffa832d1",
+    "id": "movie_f839fc5c50",
     "title": "Ready or Not 2: Here I Come",
     "year": "2026",
     "type": "Movie",
@@ -1296,7 +770,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/ready-or-not-2-here-i-come-2026-english-webrip-full-movie/"
   },
   {
-    "id": "movie_b51163c691",
+    "id": "movie_c17fd79dd7",
     "title": "Reminders of Him",
     "year": "2026",
     "type": "Movie",
@@ -1318,7 +792,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/reminders-of-him-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_161a4a91ef",
+    "id": "movie_16c85dac83",
     "title": "Sambhavam Adhyayam Onnu",
     "year": "2026",
     "type": "Movie",
@@ -1340,7 +814,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/sambhavam-adhyayam-onnu-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_9a32f183bd",
+    "id": "movie_96b47f4631",
     "title": "Toaster",
     "year": "2026",
     "type": "Movie",
@@ -1362,7 +836,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/toaster-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_d9f044bc48",
+    "id": "movie_d48e19983a",
     "title": "Balls Up",
     "year": "2026",
     "type": "Movie",
@@ -1384,7 +858,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/balls-up-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_340e676d23",
+    "id": "movie_57a81bea14",
     "title": "Wardriver",
     "year": "2026",
     "type": "Movie",
@@ -1406,7 +880,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/wardriver-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_7b97edc631",
+    "id": "movie_e4faa7a83d",
     "title": "Youth",
     "year": "2026",
     "type": "Movie",
@@ -1428,7 +902,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/youth-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_db72ee1d18",
+    "id": "movie_0df4003ac0",
     "title": "Ustaad Bhagat Singh",
     "year": "2026",
     "type": "Movie",
@@ -1450,7 +924,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/ustaad-bhagat-singh-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_f47d5f5423",
+    "id": "movie_d947279308",
     "title": "Assi",
     "year": "2026",
     "type": "Movie",
@@ -1472,7 +946,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/assi-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_5827725e48",
+    "id": "movie_e6dd24d447",
     "title": "Do Deewane Seher Mein",
     "year": "2026",
     "type": "Movie",
@@ -1494,7 +968,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/do-deewane-seher-mein-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_a3b3db1281",
+    "id": "movie_50efaea53e",
     "title": "Suyodhana",
     "year": "2026",
     "type": "Movie",
@@ -1516,7 +990,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/suyodhana-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_ea0ed735a8",
+    "id": "movie_f560a907cd",
     "title": "Valathu Vashathe Kallan",
     "year": "2026",
     "type": "Movie",
@@ -1538,7 +1012,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/valathu-vashathe-kallan-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_f31dd14e64",
+    "id": "movie_137d0ca170",
     "title": "180",
     "year": "2026",
     "type": "Movie",
@@ -1560,7 +1034,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/180-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_724c08ef65",
+    "id": "movie_564b5c120d",
     "title": "Vengeance",
     "year": "2026",
     "type": "Movie",
@@ -1582,7 +1056,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/vengeance-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_d08b877b9e",
+    "id": "movie_5960f6182e",
     "title": "Pallichattambi",
     "year": "2026",
     "type": "Movie",
@@ -1604,7 +1078,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/pallichattambi-2026-hindi-hdtc-full-movie/"
   },
   {
-    "id": "movie_e600992a11",
+    "id": "movie_8dbe7a0bbc",
     "title": "WWE WrestleMania 42 – Saturday",
     "year": "2026",
     "type": "Movie",
@@ -1626,7 +1100,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/wwe-wrestlemania-42-saturday-2026-webrip-hindi-full-event/"
   },
   {
-    "id": "movie_5538198db2",
+    "id": "movie_314015a8a5",
     "title": "WWE WrestleMania 42 Sunday",
     "year": "2026",
     "type": "Movie",
@@ -1648,7 +1122,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/wwe-wrestlemania-42-sunday-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_5f81016abf",
+    "id": "movie_fefbffd84f",
     "title": "Nee Forever",
     "year": "2026",
     "type": "Movie",
@@ -1670,7 +1144,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/nee-forever-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_610ef9efa2",
+    "id": "movie_5c3f3a1503",
     "title": "Prathichaya",
     "year": "2026",
     "type": "Movie",
@@ -1692,7 +1166,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/prathichaya-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_abf1e27686",
+    "id": "movie_60043f1396",
     "title": "Nukkad Naatak",
     "year": "2026",
     "type": "Movie",
@@ -1714,7 +1188,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/nukkad-naatak-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_944ef94ccc",
+    "id": "movie_c20b814b37",
     "title": "Greenland 2: Migration",
     "year": "2026",
     "type": "Movie",
@@ -1736,7 +1210,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/greenland-2-migration-2026-hindi-bluray-full-movie/"
   },
   {
-    "id": "movie_ff213ac279",
+    "id": "movie_f96901d008",
     "title": "Apex",
     "year": "2026",
     "type": "Movie",
@@ -1758,7 +1232,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/apex-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_bd38175cd4",
+    "id": "movie_96c1afc0fe",
     "title": "They Will Kill You",
     "year": "2026",
     "type": "Movie",
@@ -1780,7 +1254,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/they-will-kill-you-2026-english-webrip-full-movie/"
   },
   {
-    "id": "movie_1251c3dfc2",
+    "id": "movie_6bc36b5dee",
     "title": "Bhooth Bangla",
     "year": "2026",
     "type": "Movie",
@@ -1802,7 +1276,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/bhooth-bangla-2026-hindi-line-v3-hdtc-full-movie/"
   },
   {
-    "id": "movie_f3f5db3325",
+    "id": "movie_ee6f01794d",
     "title": "Aadu 3",
     "year": "2026",
     "type": "Movie",
@@ -1824,7 +1298,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/aadu-3-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_88493ff640",
+    "id": "movie_14924f223f",
     "title": "Project Y",
     "year": "2026",
     "type": "Movie",
@@ -1846,7 +1320,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/project-y-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_eee3e4076b",
+    "id": "movie_7aec44f1b9",
     "title": "Biker",
     "year": "2026",
     "type": "Movie",
@@ -1868,7 +1342,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/biker-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_917c09aca3",
+    "id": "movie_13b5ddc2f2",
     "title": "The Kerala Story 2 Goes Beyond",
     "year": "2026",
     "type": "Movie",
@@ -1890,7 +1364,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/the-kerala-story-2-goes-beyond-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_820f38f645",
+    "id": "movie_4123435b1d",
     "title": "The Whisper",
     "year": "2026",
     "type": "Movie",
@@ -1912,7 +1386,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/the-whisper-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_17ec751b51",
+    "id": "movie_f715963039",
     "title": "Ek Din",
     "year": "2026",
     "type": "Movie",
@@ -1934,7 +1408,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/ek-din-2026-hindi-hdtc-full-movie/"
   },
   {
-    "id": "movie_0cf6cd3ca7",
+    "id": "movie_3e26ef28df",
     "title": "Pitt Siyapa",
     "year": "2026",
     "type": "Movie",
@@ -1956,7 +1430,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/pitt-siyapa-2026-hdtc-punjabi-full-movie/"
   },
   {
-    "id": "movie_e8ab354b60",
+    "id": "movie_e458ca784a",
     "title": "Happy Raj",
     "year": "2026",
     "type": "Movie",
@@ -1978,7 +1452,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/happy-raj-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_5682d987a6",
+    "id": "movie_ed4dcf71cc",
     "title": "Love Insurance Kompany",
     "year": "2026",
     "type": "Movie",
@@ -2000,7 +1474,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/love-insurance-kompany-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_85110a7304",
+    "id": "movie_7f47ec9a34",
     "title": "Swapped",
     "year": "2026",
     "type": "Movie",
@@ -2022,7 +1496,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/swapped-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_6a57faa811",
+    "id": "movie_8dd59cbeed",
     "title": "Jana Nayagan",
     "year": "2026",
     "type": "Movie",
@@ -2044,7 +1518,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/jana-nayagan-2026-hindi-hq-dubbed-web-leak-fulll-moviie/"
   },
   {
-    "id": "movie_70b1775e17",
+    "id": "movie_47375da65d",
     "title": "Bharathanatyam 2 Mohiniyattam",
     "year": "2026",
     "type": "Movie",
@@ -2066,7 +1540,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/bharathanatyam-2-mohiniyattam-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_bd2fba1436",
+    "id": "movie_3c152518b4",
     "title": "Vaazha II: Biopic of a Billion Bros",
     "year": "2026",
     "type": "Movie",
@@ -2088,7 +1562,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/vaazha-ii-biopic-of-a-billion-bros-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_f57ffdeca7",
+    "id": "movie_be65d26256",
     "title": "No Place to Be Single",
     "year": "2026",
     "type": "Movie",
@@ -2110,7 +1584,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/no-place-to-be-single-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_a3a6cd7c6b",
+    "id": "movie_1bbea7b774",
     "title": "Fantasy Life",
     "year": "2026",
     "type": "Movie",
@@ -2132,7 +1606,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/fantasy-life-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_bc10be96cc",
+    "id": "movie_523ad3bd69",
     "title": "WWE Backlash Tampa",
     "year": "2026",
     "type": "Movie",
@@ -2154,7 +1628,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/wwe-backlash-tampa-2026-webrip-hindi-full-event/"
   },
   {
-    "id": "movie_169b83096c",
+    "id": "movie_a855ac56e0",
     "title": "Project Hail Mary",
     "year": "2026",
     "type": "Movie",
@@ -2176,7 +1650,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/project-hail-mary-2026-hindi-imax-webrip-full-movie/"
   },
   {
-    "id": "movie_33dcd49cc9",
+    "id": "movie_f32b145bc5",
     "title": "Kaalidas 2",
     "year": "2026",
     "type": "Movie",
@@ -2198,7 +1672,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/kaalidas-2-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_25a22601a7",
+    "id": "movie_9c7874725a",
     "title": "The Punisher: One Last Kill",
     "year": "2026",
     "type": "Movie",
@@ -2220,7 +1694,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/the-punisher-one-last-kill-2026-english-webrip-full-movie/"
   },
   {
-    "id": "movie_b63fa7245b",
+    "id": "movie_1150f7dcf7",
     "title": "Dhurandhar: The Revenge",
     "year": "2026",
     "type": "Movie",
@@ -2242,7 +1716,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/dhurandhar-the-revenge-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_b51adadff1",
+    "id": "movie_921c3f8165",
     "title": "Kartavya",
     "year": "2026",
     "type": "Movie",
@@ -2264,7 +1738,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/kartavya-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_7d7209238f",
+    "id": "movie_54f462d2dd",
     "title": "Pati Patni Aur Woh Do",
     "year": "2026",
     "type": "Movie",
@@ -2286,7 +1760,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/pati-patni-aur-woh-do-2026-hindi-line-hdtc-full-movie/"
   },
   {
-    "id": "movie_de2f21e3e8",
+    "id": "movie_e356ccf72f",
     "title": "Haye Ni Bebe Meriye",
     "year": "2026",
     "type": "Movie",
@@ -2308,7 +1782,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/haye-ni-bebe-meriye-2026-webrip-punjabi-full-movie/"
   },
   {
-    "id": "movie_c960961795",
+    "id": "movie_5d0d0d42c0",
     "title": "Karaa",
     "year": "2026",
     "type": "Movie",
@@ -2330,7 +1804,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/karaa-2026-hdtc-tamil-full-movie/"
   },
   {
-    "id": "movie_e5ced04f38",
+    "id": "movie_6a0398cdf7",
     "title": "Aakhri Sawal",
     "year": "2026",
     "type": "Movie",
@@ -2352,7 +1826,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/aakhri-sawal-2026-hdtc-hindi-clean-full-movie/"
   },
   {
-    "id": "movie_691c38c7c0",
+    "id": "movie_2a355cd530",
     "title": "Indian Institute of Zombies",
     "year": "2026",
     "type": "Movie",
@@ -2374,7 +1848,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/indian-institute-of-zombies-2026-hdtc-hindi-clean-full-movie/"
   },
   {
-    "id": "movie_c2cd7058fc",
+    "id": "movie_f3dfc6c40a",
     "title": "Krishnavataram Part 1: The Heart",
     "year": "2026",
     "type": "Movie",
@@ -2396,7 +1870,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/krishnavataram-part-1-the-heart-2026-hindi-hdtc-full-movie/"
   },
   {
-    "id": "movie_da2758eedf",
+    "id": "movie_5f04f60a80",
     "title": "The Super Mario Galaxy Movie",
     "year": "2026",
     "type": "Movie",
@@ -2418,7 +1892,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/the-super-mario-galaxy-movie-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_bfc649e816",
+    "id": "movie_3c00e9c1ef",
     "title": "War of Shera",
     "year": "2026",
     "type": "Movie",
@@ -2440,7 +1914,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/war-of-shera-2026-hdtc-punjabi-full-movie/"
   },
   {
-    "id": "movie_1b7fbbf636",
+    "id": "movie_311bd633e4",
     "title": "Tom Clancy’s Jack Ryan: Ghost War",
     "year": "2026",
     "type": "Movie",
@@ -2462,7 +1936,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/tom-clancys-jack-ryan-ghost-war-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_0f68dc8e23",
+    "id": "movie_3cc76046ae",
     "title": "Madhuvidhu",
     "year": "2026",
     "type": "Movie",
@@ -2484,7 +1958,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/madhuvidhu-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_7c9ff4d9e1",
+    "id": "movie_4410e2f653",
     "title": "Ishqa’n De Lekhe",
     "year": "2026",
     "type": "Movie",
@@ -2506,7 +1980,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/ishqan-de-lekhe-2026-punjabi-webrip-full-movie/"
   },
   {
-    "id": "movie_5242eb899b",
+    "id": "movie_f5e3aee44b",
     "title": "System",
     "year": "2026",
     "type": "Movie",
@@ -2528,7 +2002,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/system-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_46997e1cab",
+    "id": "movie_ecfcc35df7",
     "title": "Gaayapadda Simham",
     "year": "2026",
     "type": "Movie",
@@ -2550,7 +2024,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/gaayapadda-simham-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_b60abeb07a",
+    "id": "movie_df795082c4",
     "title": "Panda Plan 2: The Magical Tribe",
     "year": "2026",
     "type": "Movie",
@@ -2572,7 +2046,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/panda-plan-2-the-magical-tribe-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_25ad1ddbe6",
+    "id": "movie_3d7864951e",
     "title": "TN 2026",
     "year": "2026",
     "type": "Movie",
@@ -2594,7 +2068,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/tn-2026-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_5d4d9de619",
+    "id": "movie_a0594af78e",
     "title": "Ladies First",
     "year": "2026",
     "type": "Movie",
@@ -2616,7 +2090,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/ladies-first-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_cba54e2cbb",
+    "id": "movie_2179506250",
     "title": "Drishyam 3",
     "year": "2026",
     "type": "Movie",
@@ -2638,7 +2112,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/drishyam-3-2026-malayalam-hdtc-full-movie/"
   },
   {
-    "id": "movie_75c98a35ec",
+    "id": "movie_c6ee892543",
     "title": "Drishyam 3",
     "year": "2026",
     "type": "Movie",
@@ -2660,7 +2134,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/drishyam-3-2026-malayalam-tamil-telugu-hdtc-full-movie/"
   },
   {
-    "id": "movie_6366b45579",
+    "id": "movie_852054bf2b",
     "title": "Mermaid",
     "year": "2026",
     "type": "Movie",
@@ -2682,7 +2156,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/mermaid-2026-web-dl-hindi-dd2-0-english-1080p-720p-480p-dual-audio-x264-10bit-hevc-full-movie/"
   },
   {
-    "id": "movie_3e94c47fd5",
+    "id": "movie_156a4959a9",
     "title": "The Botanist",
     "year": "2026",
     "type": "Movie",
@@ -2704,7 +2178,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/the-botanist-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_9172c462d3",
+    "id": "movie_de654d8342",
     "title": "Sathi Leelavathi",
     "year": "2026",
     "type": "Movie",
@@ -2726,7 +2200,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/sathi-leelavathi-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_c434cc485a",
+    "id": "movie_dfbae1a8a3",
     "title": "Karikaada",
     "year": "2026",
     "type": "Movie",
@@ -2748,7 +2222,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/karikaada-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_7f5f91eec0",
+    "id": "movie_963d25dd97",
     "title": "Lechindi Mahila Lokam",
     "year": "2026",
     "type": "Movie",
@@ -2770,7 +2244,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/lechindi-mahila-lokam-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_f5309a9588",
+    "id": "movie_386e23b0dc",
     "title": "This Is Not a Test",
     "year": "2026",
     "type": "Movie",
@@ -2792,7 +2266,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/this-is-not-a-test-2026-webrip-english-full-movie/"
   },
   {
-    "id": "movie_96e81a7c60",
+    "id": "movie_3c294613e7",
     "title": "Nawab Cafe",
     "year": "2026",
     "type": "Movie",
@@ -2814,7 +2288,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/nawab-cafe-2026-webrip-hindi-full-movie/"
   },
   {
-    "id": "movie_b83e6c56a2",
+    "id": "movie_a574c62f8a",
     "title": "Kara",
     "year": "2026",
     "type": "Movie",
@@ -2836,7 +2310,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/kara-2026-hindi-webrip-full-movie/"
   },
   {
-    "id": "movie_7c121f10b6",
+    "id": "movie_ef9c25e6a7",
     "title": "Top Cop",
     "year": "2026",
     "type": "Movie",
@@ -2858,7 +2332,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/top-cop-2026-punjabi-webrip-full-movie/"
   },
   {
-    "id": "movie_f6a3a738d1",
+    "id": "movie_06dc5f0aaa",
     "title": "Lee Cronin’s The Mummy",
     "year": "2026",
     "type": "Movie",
@@ -2880,7 +2354,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/lee-cronins-the-mummy-2026-hindi-webrip-fulll-movie/"
   },
   {
-    "id": "movie_2f0e88a631",
+    "id": "movie_31783d9925",
     "title": "Kattalan",
     "year": "2026",
     "type": "Movie",
@@ -2902,7 +2376,7 @@
     "sourceUrl": "https://new2.hdhub4u.cl/kattalan-2026-hindi-line-hdtc-full-movie/"
   },
   {
-    "id": "movie_5fef9911a0",
+    "id": "movie_b7954638c6",
     "title": "The Great Grand Superhero",
     "year": "2026",
     "type": "Movie",
@@ -2922,5 +2396,3129 @@
       }
     ],
     "sourceUrl": "https://new2.hdhub4u.cl/the-great-grand-superhero-2026-hindi-line-full-movie/"
+  },
+  {
+    "id": "movie_af74d128f4",
+    "title": "Viyaah Kartaare Da",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/iwM15Jx3W7v5dVXL5rylv36Vd33.jpg",
+    "rating": "",
+    "genres": "Comedy | Romance",
+    "stars": "Gippy Grewal, Nimrat Khaira, Gurpreet Ghuggi",
+    "director": "Smeep Kang",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ikzs63",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/viyaah-kartaare-da-2026-punjabi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_d7977b091f",
+    "title": "WWE : Clash in Italy",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/yaX9DGhSP2wUpPEGeww8nBMb8Iw.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Comedy",
+    "stars": "Joe Anoa’i, Jacob Fatu, Rebecca Quin",
+    "director": "",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#qalfdo",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/clash-in-italy-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_ba148d6f91",
+    "title": "Sniper: No Nation",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+    "rating": "",
+    "genres": "Action | Thriller",
+    "stars": "Chad Michael Collins, Ryan Robbins, Manuel Rodriguez-Saenz",
+    "director": "Trevor Calverley",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#qalye6",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/sniper-no-nation-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_ab23823e75",
+    "title": "Return to Silent Hill",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/8NsBq2N9SWsuCAKy3X40lZ92x8N.jpg",
+    "rating": "",
+    "genres": "Mystery | Drama | Horror",
+    "stars": "Jeremy Irvine, Hannah Emily Anderson, Evie Templeton",
+    "director": "Christophe Gans",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ikzjja",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/return-to-silent-hill-2026-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_2bf1ddb583",
+    "title": "Hoppers",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "rating": "",
+    "genres": "Adventure | Animation | Comedy | Family | Sci-Fi",
+    "stars": "Piper Curda, Bobby Moynihan, Jon Hamm",
+    "director": "Daniel Chong",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#5ydqrm",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/hoppers-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_ede7ed4eb9",
+    "title": "One Two Cha Cha Chaa",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
+    "rating": "",
+    "genres": "Action | Adventure | Comedy",
+    "stars": "Lalit Prabhakar, Anant Joshi, Ashutosh Rana",
+    "director": "Abhishek Raj, Rajnish Thakur",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#u86pjx",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/one-two-cha-cha-chaa-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_58f2f4906e",
+    "title": "The Highest Stakes",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+    "rating": "",
+    "genres": "Thriller",
+    "stars": "Seth Green, Kevin Dillon, Dylan Walsh",
+    "director": "Tony Dean Smith",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9jms83",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-highest-stakes-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_f689d7ea48",
+    "title": "Maa Behen",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/rfooTavEjaWh6krAcPpHp1CPj7E.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama | Thriller",
+    "stars": "Madhuri Dixit, Triptii Dimri, Ravi Kishan",
+    "director": "Suresh Triveni",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#prxur1",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/maa-behen-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_3140891208",
+    "title": "Speed Demon",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/1qeO6qbbOXFkwN19aCWQAlmpbHQ.jpg",
+    "rating": "",
+    "genres": "Horror",
+    "stars": "Katie Cassidy, William H. Macy, John Patrick Jordan",
+    "director": "Jon Keeyes",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ik19ht",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/speed-demon-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_6d076fd26d",
+    "title": "Ginny Wedss Sunny 2",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama | Romance",
+    "stars": "Avinash Tiwary, Medha Shankr, Govind Namdeo",
+    "director": "Prashant Jha",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#mpak9o",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/ginny-wedss-sunny-2-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_bd08bfcdd9",
+    "title": "Patriot",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Thriller",
+    "stars": "Mammootty, Mohanlal, Fahadh Faasil",
+    "director": "Mahesh Narayanan",
+    "langs": "Hindi, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#d3h5zc",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/patriot-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_c0f63018dc",
+    "title": "29",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
+    "rating": "",
+    "genres": "Romance | Comedy | Drama",
+    "stars": "Vidhu, Preethi Asrani, Mahendran",
+    "director": "Rathna Kumar",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#d3h5gz",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/29-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_9c2a551c67",
+    "title": "Dacoit",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/sKebwp4EmvY6Q5NCJR6aptqIzJs.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Romance | Thriller",
+    "stars": "Adivi Sesh, Mrunal Thakur, Anurag Kashyap",
+    "director": "Shaneil Deo",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hoyncg",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/dacoit-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_391d3b40e6",
+    "title": "Peddi",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/tQkUqSEj0z7t7gMwkxVHanI7JfP.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Sport",
+    "stars": "Ram Charan, Janhvi Kapoor, Shiva Rajkumar",
+    "director": "Buchi Babu Sana",
+    "langs": "Hindi, Tamil, Telugu, Kannada, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#prxnji",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/peddi-2026-hindi-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_0fac6c9bfd",
+    "title": "Office Romance",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+    "rating": "",
+    "genres": "Romance | Comedy",
+    "stars": "Jennifer Lopez, Brett Goldstein, Betty Gilpin",
+    "director": "Ol Parker",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69zj8r",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/office-romance-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_b3584984e0",
+    "title": "The Marked Woman",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg",
+    "rating": "",
+    "genres": "Thriller | Crime",
+    "stars": "Candela Peña, Ana Rujas, Pol López",
+    "director": "Gabe Ibáñez",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9jgvxq",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-marked-woman-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_c93000843e",
+    "title": "Ugly Story",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/hzg1qQmlFF0h4iY6Vw06IcIng9a.jpg",
+    "rating": "",
+    "genres": "Romance | Drama | Thriller",
+    "stars": "Nandu Vijay Krishna, Avika Gor, Ravi Teja Mahadasyam",
+    "director": "L. Pranava Swaroop",
+    "langs": "Hindi, Telugu",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69zj58",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/ugly-story-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_486515203d",
+    "title": "My Dearest Assassin",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Romance | Thriller",
+    "stars": "Pimchanok Luevisadpaibul, Thanapob Leeratanakachorn, Sivakorn Adulsuttikul",
+    "director": "Taweewat Wantha",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xsvrqh",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/my-dearest-assassin-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_17427517d3",
+    "title": "Hai Jawani Toh Ishq Hona Hai",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama | Romance",
+    "stars": "Varun Dhawan, Pooja Hegde, Mrunal Thakur",
+    "director": "David Dhawan",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ocef65",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/hai-jawani-toh-ishq-hona-hai-2026-hindi-line-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_e79184a3bf",
+    "title": "Bandar",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/MZ0PJeqQIFeRZtJvJ3chAexiJp.jpg",
+    "rating": "",
+    "genres": "Crime | Thriller",
+    "stars": "Bobby Deol, Sanya Malhotra, Saba Azad",
+    "director": "Anurag Kashyap",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#691dyl",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/bandar-2026-hindi-clean-v2-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_d894c660a4",
+    "title": "Michael",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "rating": "",
+    "genres": "Biography | Music | Drama",
+    "stars": "Jaafar Jackson, Colman Domingo, Nia Long",
+    "director": "Antoine Fuqua",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdx86t",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/michael-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_054765e0b8",
+    "title": "Valavaara",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/kHFvqy0pPGdPjjBo513JS0WkDa1.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Master Vedic Kushal, Abhay, Harshitha Gowda",
+    "director": "Suthan Gowda",
+    "langs": "Hindi, Kannada",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdxabu",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/valavaara-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_974d589ca6",
+    "title": "KD – The Devil",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+    "rating": "",
+    "genres": "History | Crime | Action | Fantasy",
+    "stars": "Dhruva Sarja, Shilpa Shetty Kundra, Sanjay Dutt",
+    "director": "Prem",
+    "langs": "Tamil, Telugu, Kannada, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hobvgl",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/kd-the-devil-2026-webrip-multi-full-movie/"
+  },
+  {
+    "id": "movie_d1e3795307",
+    "title": "DSP Dev 2",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/85TcTWInOY8eO2JACpCJW7w0CXt.jpg",
+    "rating": "",
+    "genres": "Drama | Action",
+    "stars": "Varun Narang, Aditi Aarya, Deedar Gill",
+    "director": "Mandeep Benipal",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ikydwp",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/dsp-dev-2-2026-webrip-punjabi-full-movie/"
+  },
+  {
+    "id": "movie_d3092f1a87",
+    "title": "Karuppu",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/ivMiYnGECBQWns4vs5gzyunu3kd.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Fantasy",
+    "stars": "Suriya, Trisha Krishnan, RJ Balaji",
+    "director": "RJ Balaji",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#eub3w6",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/karuppu-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_7b48cbf937",
+    "title": "Bhooth Bangla",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+    "rating": "",
+    "genres": "Crime | Horror",
+    "stars": "Akshay Kumar, Paresh Rawal, Wamiqa Gabbi",
+    "director": "Priyadarshan",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xswqnr",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/bhooth-bangla-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_9e7eef7a74",
+    "title": "Dridam",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/l5bB8MVV5HzZrrLlAnkuJh3EXtF.jpg",
+    "rating": "",
+    "genres": "Crime | Thriller",
+    "stars": "Shane Nigam, Krishna Prabha, Shobi Thilakan",
+    "director": "Martin Joseph",
+    "langs": "Hindi, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#eub5xs",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/dridam-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_bc449346ab",
+    "title": "Shelter",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+    "rating": "",
+    "genres": "Action | Crime | Thriller",
+    "stars": "Jason Statham, Bodhi Rae Breathnach, Naomi Ackie",
+    "director": "Ric Roman Waugh",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69fvm6",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/shelter-2026-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_2f1bf55456",
+    "title": "Over Your Dead Body",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg",
+    "rating": "",
+    "genres": "Action | Comedy | Thriller",
+    "stars": "Samara Weaving, Jason Segel, Timothy Olyphant",
+    "director": "Jorma Taccone",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdmyys",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/over-your-dead-body-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_642e54c1ab",
+    "title": "Summer House",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/81xUChgVphBFehihIgbXbyneZXP.jpg",
+    "rating": "",
+    "genres": "Romance | Family | Drama | Mystery",
+    "stars": "Derya Pınar Ak, Onur Seyit Yaran, Mina Demirtaş",
+    "director": "Erdem Tepegöz",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xsw5jk",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/summer-house-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_3439ee1caa",
+    "title": "Bharat Bhhagya Viddhaata",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/tf5lLrrikOswHKHpzW0UiHycJEx.jpg",
+    "rating": "",
+    "genres": "Drama | Thriller",
+    "stars": "Kangana Ranaut, Girija Oak, Smita Tambe",
+    "director": "Manoj Tapadia",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9jimhj",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/bharat-bhhagya-viddhaata-2026-hdtc-hindi-clean-full-movie/"
+  },
+  {
+    "id": "movie_8136a5e2d2",
+    "title": "Main Vaapas Aaunga",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/6i5PhBWoDGWmVRmvlUk2L4N23jz.jpg",
+    "rating": "",
+    "genres": "Romance | Drama",
+    "stars": "Vedang Raina, Sharvari Wagh, Diljit Dosanjh",
+    "director": "Imtiaz Ali",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#prgbso",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/main-vaapas-aaunga-2026-hdtc-hindi-clean-full-movie/"
+  },
+  {
+    "id": "movie_88b0d9591c",
+    "title": "Governor",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/9hsJ4wIExqDUQ8OvbUrSEa9vvkG.jpg",
+    "rating": "",
+    "genres": "Drama | Thriller",
+    "stars": "Manoj Bajpayee, Adah Sharma, Noushad Mohamed Kunju",
+    "director": "Chinmay Mandlekar",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#8worwn",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/governor-2026-hdtc-hindi-clean-full-movie/"
+  },
+  {
+    "id": "movie_aafb15a965",
+    "title": "Disclosure Day",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/1xR9gpNsPhD6udETmkosvIMKsDr.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Mystery | Sci-Fi | Thriller",
+    "stars": "Emily Blunt, Josh O’Connor, Colin Firth",
+    "director": "Steven Spielberg",
+    "langs": "English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69yhad",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/disclosure-day-2026-hdtc-english-full-movie/"
+  },
+  {
+    "id": "movie_fdb4a2019d",
+    "title": "Euphoria",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://catimages.co/images/2026/06/15/Euphoria-2026-Hindi-Dubbed-HDRip-Full-Movie-HDHub4u.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Sara Arjun, Gautham Vasudev Menon, Naveena Reddy",
+    "director": "Gunasekhar",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#pr6xzm",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/euphoria-2026-hindi-hq-dubbed-webrip-full-movie/"
+  },
+  {
+    "id": "movie_0485d26fe4",
+    "title": "Undertone",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/95Oih75xXNEdfudv55TSzWLbLJu.jpg",
+    "rating": "",
+    "genres": "Horror | Mystery | Thriller",
+    "stars": "Nina Kiri, Adam DiMarco, Keana Bastidas",
+    "director": "Ian Tuason",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#mp1bsa",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/undertone-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_d698a465e4",
+    "title": "Kenatha Kanom",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/4jFuUoddURp94ZvL7haeunK7fsm.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama",
+    "stars": "Yogi Babu, Lovelyn Chandrasekhar, George Mariyan",
+    "director": "Suresh Sangaiah",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#eumkog",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/kenatha-kanom-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_211baaba54",
+    "title": "Sattendru Maarudhu Vaanilai",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/aHwiypD3b2Ey9CkisGtrkieFHIh.jpg",
+    "rating": "",
+    "genres": "Thriller | Drama | Comedy | Romance",
+    "stars": "Jai Sampath, Meenakshi Govindarajan, Yogi Babu",
+    "director": "Babu Vijay",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#tfqy9b",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/sattendru-maarudhu-vaanilai-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_9c5e00c32b",
+    "title": "Second Case of Seetharam",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/89Tuu93NTJVef2Y4iATRwlyAO37.jpg",
+    "rating": "",
+    "genres": "Thriller | Crime",
+    "stars": "Vijay Raghavendra, Gopalkrishna Deshpande, Usha Bhandary",
+    "director": "Devi Prasad Shetty",
+    "langs": "Hindi, Kannada",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69brp3",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/second-case-of-seetharam-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_6b98e70611",
+    "title": "Drishyam 3",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+    "rating": "",
+    "genres": "Crime | Drama | Thriller",
+    "stars": "Mohanlal, Meena, Siddique",
+    "director": "Jeethu Joseph",
+    "langs": "Tamil, Telugu, Kannada, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#jvojen",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/drishyam-3-2026-webrip-multi-full-movie/"
+  },
+  {
+    "id": "movie_84d802297b",
+    "title": "Your Fault: London",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+    "rating": "",
+    "genres": "Romance | Drama",
+    "stars": "Asha Banks, Matthew Broome, Louisa Binder",
+    "director": "Dani Girdwood, Charlotte Fassler",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#qart1p",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/your-fault-london-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_44257adbc3",
+    "title": "Mortal Kombat II",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+    "rating": "",
+    "genres": "Action | Fantasy | Adventure",
+    "stars": "Karl Urban, Adeline Rudolph, Ludi Lin",
+    "director": "Simon McQuoid",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#mpyss8",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/mortal-kombat-ii-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_ea7a0e8f25",
+    "title": "Athiradi",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama",
+    "stars": "Basil Joseph, Tovino Thomas, Vineeth Sreenivasan",
+    "director": "Arun Anirudhan",
+    "langs": "Hindi, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#rtu3zt",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/athiradi-2026-ds4k-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_5da6b7232d",
+    "title": "Husbands in Action",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+    "rating": "",
+    "genres": "Comedy | Action",
+    "stars": "Jin Sun-kyu, Gong Myoung, Kim Ji-seok",
+    "director": "Park Gyu-tae",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#5yc6sd",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/husbands-in-action-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_e3c7cefa53",
+    "title": "Voicemails for Isabelle",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/kSsoAbwyw3JMqn1hvW0McGiahCa.jpg",
+    "rating": "",
+    "genres": "Romance | Comedy",
+    "stars": "Zoey Deutch, Nick Robinson, Nick Offerman",
+    "director": "Leah McKendrick",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#precze",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/voicemails-for-isabelle-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_6a7eacb3ce",
+    "title": "Toy Story 5",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/ci5CieYTiOddV55qgdYebD4yOOM.jpg",
+    "rating": "",
+    "genres": "Animation | Family | Comedy | Adventure",
+    "stars": "Tom Hanks, Tim Allen, Joan Cusack",
+    "director": "Andrew Stanton",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#oc9aim",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/toy-story-5-2026-hindi-line-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_8fa9143aec",
+    "title": "Mareechika",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/q76fBsZBiHrWqPdRyqszLXJc0SK.jpg",
+    "rating": "",
+    "genres": "Drama | Romance | Thriller",
+    "stars": "Viraj Ashwin, Regina Cassandra, Anupama Parameswaran",
+    "director": "Satish Kasetty",
+    "langs": "Hindi, Telugu",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#rtufdm",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/mareechika-2026-uncut-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_659079625f",
+    "title": "Cocktail 2",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg",
+    "rating": "",
+    "genres": "Romance | Comedy | Drama",
+    "stars": "Shahid Kapoor, Kriti Sanon, Rashmika Mandanna",
+    "director": "Homi Adajania",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdi83u",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/cocktail-2-2026-hindi-line-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_df080c078c",
+    "title": "Scam",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://catimages.org/images/2026/06/23/Scam-2026-Poster.jpg",
+    "rating": "",
+    "genres": "N/A",
+    "stars": "N/A",
+    "director": "N/A",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9jpnww",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/scam-2026-webrip-punjabi-full-movie/"
+  },
+  {
+    "id": "movie_c6c6f71ef8",
+    "title": "The Sheep Detectives",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+    "rating": "",
+    "genres": "Comedy | Family | Mystery",
+    "stars": "Hugh Jackman, Julia Louis-Dreyfus, Emma Thompson",
+    "director": "Kyle Balda",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#d3o3zf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-sheep-detectives-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_81c63db878",
+    "title": "Masters of the Universe",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "rating": "",
+    "genres": "Action | Fantasy | Science Fiction",
+    "stars": "Nicholas Galitzine, Camila Mendes, Idris Elba",
+    "director": "Travis Knight",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#d3o3ih",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/masters-of-the-universe-2026-hdrip-full-movie/"
+  },
+  {
+    "id": "movie_4c43dc2aac",
+    "title": "In the Hand of Dante",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+    "rating": "",
+    "genres": "Crime | Drama",
+    "stars": "Oscar Isaac, Gal Gadot, Gerard Butler",
+    "director": "Julian Schnabel",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#8wqz8g",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/in-the-hand-of-dante-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_92cbfee105",
+    "title": "Star Wars: The Mandalorian and Grogu",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+    "rating": "",
+    "genres": "Action | Adventure | Science Fiction",
+    "stars": "Pedro Pascal, Jeremy Allen White, Sigourney Weaver",
+    "director": "Jon Favreau",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#kq9cya",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/star-wars-the-mandalorian-and-grogu-2026-hdrip-full-movie/"
+  },
+  {
+    "id": "movie_804303ccfd",
+    "title": "Balan – The Boy",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/boKxdR9tgXfkazf6yWgiDdleBy0.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Adhisheshan K R, Muhammed Zinaan, Farzana Palathingal",
+    "director": "Chidambaram",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#u8kbjj",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/balan-the-boy-2026-hdtc-hindi-clean-full-movie/"
+  },
+  {
+    "id": "movie_4178420711",
+    "title": "Blast",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+    "rating": "",
+    "genres": "Action | Drama | Family",
+    "stars": "Arjun Sarja, Abhirami, Preity Mukhundhan",
+    "director": "Subash K Raj",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69gnlv",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/blast-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_94480b176d",
+    "title": "Raja Shivaji",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/9e2Wc6sbeU1YdBWLJIDyMcEWrN2.jpg",
+    "rating": "",
+    "genres": "Action | History | Drama",
+    "stars": "Riteish Deshmukh, Sanjay Dutt, Genelia D’Souza",
+    "director": "Riteish Deshmukh",
+    "langs": "Hindi, Marathi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#rtdsj1",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/raja-shivaji-2026-hindi-marathi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_d43ab4549d",
+    "title": "The Yeti",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller",
+    "stars": "Brittany Allen, Eric Nelsen, Corbin Bernsen",
+    "director": "Gene Gallerano, William Pisciotta",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdhisr",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-yeti-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_42ddf06c45",
+    "title": "Welcome to the Jungle",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "rating": "",
+    "genres": "Action | Adventure | Comedy | Crime",
+    "stars": "Akshay Kumar, Suniel Shetty, Disha Patani",
+    "director": "Ahmed Khan",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#lnpxia",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/welcome-to-the-jungle-2026-hindi-line-v2-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_4a5d150d1d",
+    "title": "Little Brother",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "rating": "",
+    "genres": "Comedy",
+    "stars": "John Cena, Eric André, Michelle Monaghan",
+    "director": "Matt Spicer",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#mpxfaj",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/little-brother-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_e740c1c38e",
+    "title": "Supergirl",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+    "rating": "",
+    "genres": "Action | Adventure | Science Fiction",
+    "stars": "Milly Alcock, Eve Ridley, Matthias Schoenaerts",
+    "director": "Craig Gillespie",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69gxf1",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/supergirl-2026-hindi-line-v2-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_3cd5cfd581",
+    "title": "Driver’s Ed",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
+    "rating": "",
+    "genres": "Comedy",
+    "stars": "Sam Nivola, Sophie Telegadis, Mohana Krishnan",
+    "director": "Bobby Farrelly",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#d3ouv6",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/drivers-ed-2026-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_dba6b6dfd6",
+    "title": "KD: The Devil",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://catimages.org/images/2026/06/27/KD-The.Devil.2026.Hindi.Dubbed-Trailer-Poster-HDHub4u.Ms.jpg",
+    "rating": "",
+    "genres": "Action | Crime | Drama | Thriller",
+    "stars": "Dhruva Sarja, Sanjay Dutt, Shilpa Shetty Kundra",
+    "director": "Prem",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#696ela",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/kd-the-devil-2026-hindi-hq-dubbed-webrip-full-movie/"
+  },
+  {
+    "id": "movie_f0803dbe3e",
+    "title": "WWE Night of Champions",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/jPWp1JcSLLcnhjOTFU3iUeURxph.jpg",
+    "rating": "",
+    "genres": "Action | Drama",
+    "stars": "Cody Rhodes, Walter Hahn, Rami Sebei",
+    "director": "",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#jvjaho",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/wwe-night-of-champions-2026-webrip-hindi-full-event/"
+  },
+  {
+    "id": "movie_4afab469d2",
+    "title": "Obsession",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/n6EQ4QmlOPIq6zE5cc3IXm9Y4Zl.jpg",
+    "rating": "",
+    "genres": "Horror | Romance | Thriller",
+    "stars": "Michael Johnston, Inde Navarrette, Cooper Tomlinson",
+    "director": "Curry Barker",
+    "langs": "English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hoha6y",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/obsession-2026-english-webrip-full-movie/"
+  },
+  {
+    "id": "movie_1a17d73477",
+    "title": "Tavvai",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg",
+    "rating": "",
+    "genres": "Mystery | Horror | Thriller",
+    "stars": "Manoj Joshi, Tripti Sahu, Arpit Ranka",
+    "director": "",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ocoeao",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/tavvai-2026-ds4k-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_e6272a0214",
+    "title": "Enola Holmes 3",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
+    "rating": "",
+    "genres": "Adventure | Mystery | Crime | Thriller",
+    "stars": "Millie Bobby Brown, Louis Partridge, Himesh Patel",
+    "director": "Philip Barantini",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#nvqcd1",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/enola-holmes-3-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_2862618d05",
+    "title": "Obsession",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/n6EQ4QmlOPIq6zE5cc3IXm9Y4Zl.jpg",
+    "rating": "",
+    "genres": "Horror | Romance | Thriller",
+    "stars": "Michael Johnston, Inde Navarrette, Cooper Tomlinson",
+    "director": "Curry Barker",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#o3rwww",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/obsession-2026-ds4k-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_ad36bd3081",
+    "title": "Daadi Ki Shaadi",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama | Family",
+    "stars": "Neetu Singh, Kapil Sharma, R. Sarathkumar",
+    "director": "Ashish R. Mohan",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#nvqmyb",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/daadi-ki-shaadi-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_6cca981a78",
+    "title": "Mollywood Times",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/3czah0BGOAiepYUX7ad5jDN0Kdp.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama",
+    "stars": "Naslen K. Gafoor, Roshan Shanavas, Althaf Salim",
+    "director": "Abhinav Sunder Nayak",
+    "langs": "Hindi, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ljkwxf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/mollywood-times-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_4b5810d79b",
+    "title": "Karakkam",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/8VcyNtLTfTynrJXKedTgP5cB5sh.jpg",
+    "rating": "",
+    "genres": "Horror | Comedy | Fantasy",
+    "stars": "Sreenath Bhasi, Femina George, Abhiram Radhakrishnan",
+    "director": "Subhash Lalitha Subrahmanian",
+    "langs": "Hindi, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#srlari",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/karakkam-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_196527d32d",
+    "title": "Chand Mera Dil",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/6JQD3eA3QDcC1sURMvSO543dZXv.jpg",
+    "rating": "",
+    "genres": "Drama | Romance",
+    "stars": "Lakshya, Ananya Panday, Aastha Singh",
+    "director": "Vivek Soni",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#6kear5",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/chand-mera-dil-2026-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_310b8ecada",
+    "title": "Carry On Jatta 4",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
+    "rating": "",
+    "genres": "Comedy",
+    "stars": "Gippy Grewal, Binnu Dhillon, Jaswinder Bhalla",
+    "director": "Smeep Kang",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#iuhwgt",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/carry-on-jatta-4-2026-hdtc-punjabi-full-movie/"
+  },
+  {
+    "id": "movie_cfa90f6935",
+    "title": "Alpha",
+    "year": "2026",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
+    "rating": "",
+    "genres": "Action | Thriller",
+    "stars": "Alia Bhatt, Sharvari, Anil Kapoor, Bobby Deol",
+    "director": "Shiv Rawail",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#6ketxx",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/alpha-2026-2026-hindi-line-hdtc-full-movie/"
+  },
+  {
+    "id": "movie_5d823ff3e3",
+    "title": "Turbulence",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
+    "rating": "",
+    "genres": "Thriller | Action | Adventure | Drama | Fantasy",
+    "stars": "Jeremy Irvine, Olga Kurylenko, Kelsey Grammer",
+    "director": "Claudio Fäh",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#pd1ucy",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/turbulence-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_e24ac438b9",
+    "title": "The Taj Story",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Paresh Rawal, Amruta Khanvilkar, Namit Das",
+    "director": "Tushar Amrish Goel",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#huw9pa",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-taj-story-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_48978c23a1",
+    "title": "Good Fortune",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
+    "rating": "",
+    "genres": "Comedy | Fantasy",
+    "stars": "Keanu Reeves, Aziz Ansari, Seth Rogen",
+    "director": "Aziz Ansari",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#3zlepc",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/good-fortune-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_32960220e6",
+    "title": "Now You See Me: Now You Don’t",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/mRWxtgMNy01gRVMZpBc4C4WKylY.jpg",
+    "rating": "",
+    "genres": "Thriller | Crime",
+    "stars": "Jesse Eisenberg, Dominic Sessa, Ariana Greenblatt",
+    "director": "Ruben Fleischer",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#nthbif",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/now-you-see-me-now-you-dont-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_2f2ea0b310",
+    "title": "Vijeyta",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/vWVw9ZFUEWyhUm8iJQZDFI7hLd9.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Ravi Bhatia, Bharti Awasthi, Gyan Prakash Sharma",
+    "director": "Rajiv S. Ruia",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xhvrpf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/vijeyta-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_d7d1e19047",
+    "title": "House Mates",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/1HeWmcvzXKyBrUxCFdbvEni4spb.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama | Fantasy | Horror",
+    "stars": "Darshan, Kaali Venkat, Arsha Baiju",
+    "director": "Rajavel",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#i916wq",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/house-mates-2025-uncut-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_434c089545",
+    "title": "Choran Nal Yarian",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/59CM3PCdHHOSD1UFoC8A5LyS9YQ.jpg",
+    "rating": "",
+    "genres": "Comedy",
+    "stars": "Arya Babbar, Prabh Grewal, Rup Khatkar",
+    "director": "Naseeb Randhawa, Gurdial Singh Sidhu",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#uqiwk9",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/choran-nal-yarian-2025-webrip-punjabi-full-movie/"
+  },
+  {
+    "id": "movie_06ccf1ae39",
+    "title": "Durlabh Prasad Ki Dusri Shadi",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/ukUnE8AJvt5qnYPsGwzChhFK9Ca.jpg",
+    "rating": "",
+    "genres": "Comedy | Family",
+    "stars": "Sanjay Mishra, Vyom Yadav, Palak Lalwani",
+    "director": "Siddhant Raj Singh",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hubkia",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/durlabh-prasad-ki-dusri-shadi-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_8af7abcb97",
+    "title": "Match Fixing",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/mHJEcBGEDBt1Ib7HSSaaRnNPw5T.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Vineet Kumar Singh, Manoj Joshi, Raj Arjun",
+    "director": "Kedar Prabhakar Gaekwad",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69eneu",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/match-fixing-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_b6e43972ef",
+    "title": "Dolly",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/sTPUg3XtdcKRAS5Vwsi1GYPFhNZ.jpg",
+    "rating": "",
+    "genres": "Horror",
+    "stars": "Max Lindsey, Fabianne Therese, Seann William Scott",
+    "director": "Rod Blackhurst",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#glirkz",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/dolly-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_e795bfa65c",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+    "rating": "",
+    "genres": "Animation | Action | Fantasy | Thriller",
+    "stars": "Natsuki Hanae, Akari Kito, Yoshitsugu Matsuoka",
+    "director": "Haruo Sotozaki",
+    "langs": "Hindi, English, Japanese",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#pr9tsy",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/demon-slayer-kimetsu-no-yaiba-infinity-castle-2025-hindi-line-webrip-full-movie/"
+  },
+  {
+    "id": "movie_b5765d2e50",
+    "title": "Keeper",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
+    "rating": "",
+    "genres": "Horror | Mystery",
+    "stars": "Tatiana Maslany, Rossif Sutherland, Birkett Turton",
+    "director": "Osgood Perkins",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#lno816",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/keeper-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_29c022ff99",
+    "title": "The Ugly",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/ehJVNkNRqmQByrtos8ll8cXVAvR.jpg",
+    "rating": "",
+    "genres": "Mystery | Thriller",
+    "stars": "Park Jeong-min, Kwon Hae-hyo, Shin Hyun-bin",
+    "director": "Yeon Sang-ho",
+    "langs": "Hindi, Korean",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#prucuf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-ugly-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_7cee0c51e4",
+    "title": "The Truce",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/gk3VVTTRWVhuAVpuxJrGKCKBat5.jpg",
+    "rating": "",
+    "genres": "Drama | History",
+    "stars": "Miguel Herrán, Arón Piper, Javier Pereira",
+    "director": "Miguel Ángel Vivas",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#5yzsnw",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-truce-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_cb47d709fa",
+    "title": "Suryapet Junction",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/sjswv9mQvvETJdtRHKakEIPav8Y.jpg",
+    "rating": "",
+    "genres": "Action | Drama",
+    "stars": "Eeswar, Naina Sarwar, Abhimanyu Singh",
+    "director": "Rajesh Nadendla",
+    "langs": "Hindi, Telugu",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69loco",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/suryapet-junction-2025-uncut-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_911cd6e055",
+    "title": "Agra",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/biX8D3kSh4HuZzf1r0ynRgaEJte.jpg",
+    "rating": "",
+    "genres": "Drama",
+    "stars": "Priyanka Bose, Rahul Roy, Vibha Chibber",
+    "director": "Kanu Behl",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#6995ay",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/agra-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_3c4ef8eaf4",
+    "title": "Badass RaviKumar",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/sPPFrcoEbd1fLsvM2cpFByrPB1e.jpg",
+    "rating": "",
+    "genres": "Action | Music | Comedy",
+    "stars": "Kirti Kulhari, Sunny Leone, Himesh Reshammiya",
+    "director": "Keith Gomes",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#311ovd",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/badass-ravikumar-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_ccab578661",
+    "title": "The Secret Agent",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+    "rating": "",
+    "genres": "Crime | Drama | Thriller",
+    "stars": "Wagner Moura, Tânia Maria, Alice Carvalho",
+    "director": "Kleber Mendonça Filho",
+    "langs": "Hindi, Portuguese",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69uppy",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-secret-agent-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_6ce13251d4",
+    "title": "Sarah’s Oil",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
+    "rating": "",
+    "genres": "Drama | History",
+    "stars": "Naya Desir-Johnson, Sonequa Martin-Green, Zachary Levi",
+    "director": "Cyrus Nowrasteh",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hojoj3",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/sarahs-oil-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_3f42551e71",
+    "title": "Tapak",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://catimages.co/images/2026/05/03/Tapak-Poster-HDHub4u.jpg",
+    "rating": "",
+    "genres": "Mystery",
+    "stars": "Azam Ali, Nabiya Ansari, Bhuri",
+    "director": "Nayan Pachori, Kundan Sad, Sameer Welekar",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#rtzl1q",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/tapak-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_ef711eef49",
+    "title": "Coyotes",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/rMaOdvw0i1087BKON9oO0eDxtlr.jpg",
+    "rating": "",
+    "genres": "Horror | Comedy",
+    "stars": "Justin Long, Mila Harris, Brittany Allen",
+    "director": "Colin Minihan",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#tfef98",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/coyotes-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_e0f80985e3",
+    "title": "Mark",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://catimages.co/images/2026/02/08/Mark-2025-HIndi-Dubbed-Full-Movie-HDHub4u.jpg",
+    "rating": "",
+    "genres": "Action | Thriller",
+    "stars": "Sudeep, Naveen Chandra, Deepshika",
+    "director": "Vijay Karthikeyan",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#qvw693",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/mark-2025-hindi-hq-dubbed-webrip-full-movie/"
+  },
+  {
+    "id": "movie_5dd80a573c",
+    "title": "Soohe Ve Cheere Waleya",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/xs574v4F6OPysyfzmwBh6AbPdN.jpg",
+    "rating": "",
+    "genres": "Romance | Drama",
+    "stars": "Nirvair Pannu, Tanu Grewal, Bir Singh",
+    "director": "Janjot Singh",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ocfwlv",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/soohe-ve-cheere-waleya-2025-webrip-punjabi-full-movie/"
+  },
+  {
+    "id": "movie_f4a5f6e3f4",
+    "title": "Ten Hours",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/original/zpy3tsUxCo2nQ1g2iLKiOEmZZaW.jpg",
+    "rating": "",
+    "genres": "Crime | Thriller",
+    "stars": "Sibiraj, Gajaraj, Dileepan, Sujatha Babu",
+    "director": "Ilayaraja Kaliyaperumal",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#czihny",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/ten-hours-2025-uncut-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_27591ac378",
+    "title": "Marty Supreme",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+    "rating": "",
+    "genres": "Drama | Sport",
+    "stars": "Timothée Chalamet, Gwyneth Paltrow, Odessa A’zion",
+    "director": "Josh Safdie",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdadts",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/marty-supreme-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_befb6cac05",
+    "title": "Choo Mantar",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/vmwiVmJr0IaupFXPgGgbkaWrOUW.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller",
+    "stars": "Rajani Bharadwaj, Kiran Chandrashekar, Chikkanna",
+    "director": "Navaneeth",
+    "langs": "Hindi, Kannada",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#rtgmay",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/choo-mantar-2025-uncut-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_a7cbc120e5",
+    "title": "Dhurandhar",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/5zry3hg1bXsIbclnHKOWo9sa9Kz.jpg",
+    "rating": "",
+    "genres": "Action | Crime | Drama | Thriller",
+    "stars": "Ranveer Singh, Akshaye Khanna, Sanjay Dutt",
+    "director": "Aditya Dhar",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#n5iwli",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/dhurandhar-2025-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_1dddba1e53",
+    "title": "Scarlet",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+    "rating": "",
+    "genres": "Animation | Action | Drama | Science Fiction",
+    "stars": "Mana Ashida, Masaki Okada, Yutaka Matsushige",
+    "director": "Mamoru Hosoda",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xs3598",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/scarlet-2025-bluray-hindi-full-movie/"
+  },
+  {
+    "id": "movie_5aa7867d03",
+    "title": "Marshmallow",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/qZseaOw1BgLkJsfiEmNpS1KhH8d.jpg",
+    "rating": "",
+    "genres": "Horror | Science Fiction",
+    "stars": "Pierson Fodé, Corbin Bernsen, Giorgia Whigham",
+    "director": "Daniel DelPurgatorio",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xs3fn8",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/marshmallow-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_fbb61d285b",
+    "title": "An Unexpected Valentine",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/7REWn0JCKF8ORdepVhdlqcrzj1C.jpg",
+    "rating": "",
+    "genres": "TV Movie | Comedy | Romance",
+    "stars": "Lacey Chabert, Robert Buckley, Jess Brown",
+    "director": "Michael Robison",
+    "langs": "English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#8wlvjw",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/an-unexpected-valentine-2025-webrip-english-full-movie/"
+  },
+  {
+    "id": "movie_2af3f70acd",
+    "title": "The Race",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/oTLcRCSuunNV8ML81VlU4spIpMi.jpg",
+    "rating": "",
+    "genres": "Action | Adventure | Thriller",
+    "stars": "Cristina Ștefania Codreanu, Codin Maticiuc, Denis Hanganu",
+    "director": "Anghel Damian, Millo Simulov",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69aqgh",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-race-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_c5ede974af",
+    "title": "Mark",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/lwkwlbhoT7rYgPydcDEjMrEHilz.jpg",
+    "rating": "",
+    "genres": "Action | Thriller",
+    "stars": "Sudeepa, Deepshika Umapathy, Naveen Chandra",
+    "director": "Vijay Kartikeyaa",
+    "langs": "Hindi, Kannada",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xstkb3",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/mark-2025-hindi-org-webrip-full-movie/"
+  },
+  {
+    "id": "movie_e2bc25deb0",
+    "title": "K-Pops!",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/72KQHN1xUO6gWHLRRPyJcCQXlve.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama | Music",
+    "stars": "Anderson .Paak, Jee Young Han, Soul Rasheed",
+    "director": "Anderson .Paak",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#8wldqe",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/k-pops-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_2c03174faf",
+    "title": "Crazy Old Lady",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/pT28lZl2eYCNYFyxyThpSKttLfI.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller | Comedy",
+    "stars": "Carmen Maura, Daniel Hendler, Agustina Liendo",
+    "director": "Martín Mauregui",
+    "langs": "Hindi, Spanish",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#gla8xm",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/crazy-old-lady-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_2bad5097aa",
+    "title": "Beast of War",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
+    "rating": "",
+    "genres": "Thriller | Action | War | Horror",
+    "stars": "Mark Coles Smith, Joel Nankervis, Sam Delich",
+    "director": "Kiah Roache-Turner",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#czkuyo",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/beast-of-war-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_0cd8a054bc",
+    "title": "Revolver Rita",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/6Y8PP5j4x8x6UCRKYoCWsD3exQB.jpg",
+    "rating": "",
+    "genres": "Comedy | Action | Crime",
+    "stars": "Keerthy Suresh, Radikaa Sarathkumar, Super Subbarayan",
+    "director": "K. Chandru",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#eufi9g",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/revolver-rita-2025-uncut-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_2e7b2da17c",
+    "title": "Gamblers",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/gFNwJcIqA2jVQ8ZCB7Jk2Q1cVx7.jpg",
+    "rating": "",
+    "genres": "Mystery | Thriller",
+    "stars": "Sangeeth Shobhan, Srikanth Iyengar, Madhusudhan Rao",
+    "director": "K.S.K. Chaitanya",
+    "langs": "Hindi, Telugu",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9j6jhx",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/gamblers-2025-uncut-ds4k-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_adef60d527",
+    "title": "Well Done C.A. Sahab!",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/AeeEbI604LBWI21Hkeask5JgYRm.jpg",
+    "rating": "",
+    "genres": "Drama | Comedy",
+    "stars": "Gaurav Paswala, Sayandeep Sengupta, Jyoti Kapoor",
+    "director": "Sarvesh Kumar Singh",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#euyddf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/well-done-c-a-sahab-2025-ds4k-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_9935ea0a24",
+    "title": "Whistle",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/vgonf5kGsiijUBjzxKTvechhT28.jpg",
+    "rating": "",
+    "genres": "Horror | Mystery",
+    "stars": "Dafne Keen, Sophie Nélisse, Sky Yang",
+    "director": "Corin Hardy",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#u8hdae",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/whistle-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_1eccb48202",
+    "title": "Junior",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/AuJT7uChHqkMmGwbgIK3KZXepUj.jpg",
+    "rating": "",
+    "genres": "Drama | Family",
+    "stars": "Kireeti Reddy, Sreeleela, Genelia D’Souza",
+    "director": "Radhakrishna Reddy",
+    "langs": "Hindi, Telugu",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xsfddc",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/junior-2025-uncut-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_7d9db45f57",
+    "title": "Hell in Paradise",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg",
+    "rating": "",
+    "genres": "Thriller",
+    "stars": "Nora Arnezeder, Maria Bello, Joséphine de la Baume",
+    "director": "Leïla Sy",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#5ycpj8",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/hell-in-paradise-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_07fff5d9b7",
+    "title": "Avatar: Fire and Ash",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+    "rating": "",
+    "genres": "Action | Sci-Fi | Adventure | Fantasy",
+    "stars": "Sam Worthington, Zoe Saldaña, Sigourney Weaver",
+    "director": "James Cameron",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#31cwz1",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/avatar-fire-and-ash-2025-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_7cc0c58cd3",
+    "title": "Gladiator Underground",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+    "rating": "",
+    "genres": "Action",
+    "stars": "D.Y. Sao, Andy Le, Brian Le",
+    "director": "Chaya Supannarat",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#glmlky",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/gladiator-underground-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_f36ff9ac05",
+    "title": "Boonie Bears: Future Reborn",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/2KQMmKP76xJs2aZyTQIJ1Xm2gny.jpg",
+    "rating": "",
+    "genres": "Animation | Science Fiction | Comedy",
+    "stars": "Tan Xiao, Zhang Bingjun, Zhang Wei",
+    "director": "Yongchang Lin",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hoeapc",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/boonie-bears-future-reborn-2025-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_7346b7280b",
+    "title": "David",
+    "year": "2025",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+    "rating": "",
+    "genres": "Animation | Drama | Family | History",
+    "stars": "Brandon Engman, Brian Stivale, Shahar Taboch",
+    "director": "Phil Cunningham, Brent Dawes",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#lnlxb3",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/david-2025-bluray-hindi-full-movie/"
+  },
+  {
+    "id": "movie_ae206cc992",
+    "title": "Noise",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/uU3NXe7QqjJNxVpYPdz8dscFWlj.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller",
+    "stars": "Lee Sun-bin, Kim Min-seok, Jeon Ik-ryoung",
+    "director": "Kim Soo-jin",
+    "langs": "Hindi, Korean",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hooujq",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/noise-2024-hindi-webrip-full-movie/"
+  },
+  {
+    "id": "movie_def75510af",
+    "title": "Lake George",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/7nqwvs1DORz65GtV7MeNBfqBxQW.jpg",
+    "rating": "",
+    "genres": "Comedy | Crime | Thriller",
+    "stars": "Shea Whigham, Carrie Coon, Max Casella",
+    "director": "Jeffrey Reiner",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#31ig81",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/lake-george-2024-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_8e8c2c46c7",
+    "title": "Succubus",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/gm5MALMTY2XoHHb60xoTZLbw0re.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller",
+    "stars": "Angelina Pakhomova, Polina Davydova, Artur Beschastnyy",
+    "director": "Serik Beyseu",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9jxznf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/succubus-2024-bluray-hindi-full-movie/"
+  },
+  {
+    "id": "movie_40b222fd52",
+    "title": "Y2K",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/g67BS06Zo3Qd9IL1T06WdLIZgOe.jpg",
+    "rating": "",
+    "genres": "Science Fiction | Horror | Comedy",
+    "stars": "Jaeden Martell, Rachel Zegler, Julian Dennison",
+    "director": "Kyle Mooney",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ikznrv",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/y2k-2024-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_44adca8f4b",
+    "title": "Boonie Bears: Time Twist",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/3iTRr6nzsFBG6uVWZxUpYlKttw0.jpg",
+    "rating": "",
+    "genres": "Animation | Comedy | Science Fiction | Family",
+    "stars": "Tan Xiao, Li Wanyao, Ming Zhang",
+    "director": "Huida Lin",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#mpwtso",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/boonie-bears-time-twist-2024-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_e9b69ac7b3",
+    "title": "Divine Hunter",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/uZ5I7XpZbzmkpEs9Ap4jcsbvrmB.jpg",
+    "rating": "",
+    "genres": "Action",
+    "stars": "Yiming Chen, Mu Liu, Wenxue Sun",
+    "director": "Shaobo Tian",
+    "langs": "Hindi, Chinese",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9jijv8",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/divine-hunter-2024-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_c83749d8c7",
+    "title": "Tales of the Blood Moon",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/4D18Ihp6X5JgbQDvEllNMhDoGhC.jpg",
+    "rating": "",
+    "genres": "Action, History",
+    "stars": "Xu Yongge, Fan Yang, Xu Leizhi",
+    "director": "Chenggang Gao",
+    "langs": "Hindi, Chinese",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#mpzl65",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/tales-of-the-blood-moon-2024-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_592849c8d7",
+    "title": "The Last Breath",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/aC892vhMsNwcIUX5UfrsTSy9IL9.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller",
+    "stars": "Kim Spearman, Jack Parr, Alexander Arnold",
+    "director": "Joachim Hedén",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#precze",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-last-breath-2024-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_bd6dafba23",
+    "title": "Pilot",
+    "year": "2024",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/lqyXcutZbbTsBrETstMl7XLMgOF.jpg",
+    "rating": "",
+    "genres": "Comedy",
+    "stars": "Cho Jung-seok, Lee Ju-myoung, Han Seon-hwa",
+    "director": "Kim Han-kyul",
+    "langs": "Hindi, Korean",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#hoh98r",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/pilot-2024-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_a54b595d08",
+    "title": "The Senior",
+    "year": "2023",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/sv3kE86knrukjpGTtLLfg246JFx.jpg",
+    "rating": "",
+    "genres": "Drama | Sport",
+    "stars": "Michael Chiklis, Mary Stuart Masterson, Brandon Flynn",
+    "director": "Rod Lurie",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#rtxfsd",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-senior-2023-hindi-bluray-full-movie/"
+  },
+  {
+    "id": "movie_bd8bae2064",
+    "title": "Love at First Kiss",
+    "year": "2023",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/A5buE7Bepg2rJhPaNCSzFc5kQ0T.jpg",
+    "rating": "",
+    "genres": "Romance | Comedy",
+    "stars": "Álvaro Cervantes, Silvia Alonso, Gorka Otxoa",
+    "director": "Alauda Ruiz de Azúa",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#xs8jp3",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/love-at-first-kiss-2023-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_3825da4f28",
+    "title": "Lord Curzon Ki Haveli",
+    "year": "2023",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/3Hvhy3cVYCTWXvHDSX4XlCFfrec.jpg",
+    "rating": "",
+    "genres": "Comedy | Thriller",
+    "stars": "Arjun Mathur, Paresh Pahuja, Zoha Rahman",
+    "director": "Anshuman Jha",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#u8gsjx",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/lord-curzon-ki-haveli-2023-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_7813b9eee3",
+    "title": "Azure Dragon Sword",
+    "year": "2023",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/kecDnOTk5CcJ6fgYAfjRY1gWutb.jpg",
+    "rating": "",
+    "genres": "Action",
+    "stars": "Hu GuofangYuan QiaoQianlong Yang",
+    "director": "Dongxu Han",
+    "langs": "Hindi, Chinese",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#bhasmo",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/azure-dragon-sword-2023-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_1ae4c705ba",
+    "title": "Maruthi Nagar Police Station",
+    "year": "2023",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/biNV099d7EcY20MqPWlsRmJJbNO.jpg",
+    "rating": "",
+    "genres": "Crime | Action | Thriller",
+    "stars": "Varalaxmi Sarathkumar, Aarav Kizar, Santhosh Prathap",
+    "director": "Dayal Padmanabhan",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9qu3bf",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/maruthi-nagar-police-station-2023-uncut-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_85ea526485",
+    "title": "Sardar",
+    "year": "2022",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/e1gmk77vXHavz9PFj9xt39vtyrc.jpg",
+    "rating": "",
+    "genres": "Thriller | Action",
+    "stars": "Karthi, Raashii Khanna, Rajisha Vijayan",
+    "director": "P. S. Mithran",
+    "langs": "Hindi, Tamil",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#9nxfvi",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/sardar-2022-uncut-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_b387046e84",
+    "title": "Sonu Tane Mara Par Bharoso Nai Ke",
+    "year": "2022",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/a7i5k8a25OfzPipw1aKqdISZ2cg.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama",
+    "stars": "Malhar Thakar, Jayesh More, Kalpana Gagdekar",
+    "director": "Henil Gandhi",
+    "langs": "Gujarati",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sos68y",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/sonu-tane-mara-par-bharoso-nai-ke-2022-webrip-gujarati-full-movie/"
+  },
+  {
+    "id": "movie_b17182a8af",
+    "title": "Kaapa",
+    "year": "2022",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/original/57FJfMSAyLbtLsQq1jYyrtwpgqV.jpg",
+    "rating": "",
+    "genres": "Action | Crime | Drama",
+    "stars": "Prithviraj Sukumaran, Asif Ali, Anna Ben",
+    "director": "Shaji Kailas",
+    "langs": "Hindi, Malayalam",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#sdo9rv",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/kaapa-2022-uncut-hindi-webrip-fulll-movie/"
+  },
+  {
+    "id": "movie_b43295f474",
+    "title": "Scream",
+    "year": "2022",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+    "rating": "",
+    "genres": "Horror | Mystery",
+    "stars": "Melissa Barrera, Jenna Ortega, Mason Gooding",
+    "director": "Tyler Gillett, Matt Bettinelli-Olpin",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#69fncy",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/scream-2022-bluray-hindi-full-movie/"
+  },
+  {
+    "id": "movie_98cd585d07",
+    "title": "Enola Holmes 2",
+    "year": "2022",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+    "rating": "",
+    "genres": "Adventure | Mystery | Crime",
+    "stars": "Millie Bobby Brown, Henry Cavill, David Thewlis",
+    "director": "Harry Bradbeer",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ja85gu",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/enola-holmes-2-2022-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_e8f4f174f9",
+    "title": "Chal Mera Putt 3",
+    "year": "2021",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/bfWoizkLad2nrFSmqNr3eFcbPi5.jpg",
+    "rating": "",
+    "genres": "Comedy | Drama",
+    "stars": "Amrinder Gill, Simi Chahal, Nasir Chinyoti",
+    "director": "Janjot Singh",
+    "langs": "Punjabi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#tfhgd8",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/chal-mera-putt-3-2021-webrip-punjabi-full-movie/"
+  },
+  {
+    "id": "movie_a10e27b296",
+    "title": "Shiddat",
+    "year": "2021",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w500/s7bzuNelHXe8SjbhuUi9R7zCwo8.jpg",
+    "rating": "",
+    "genres": "Romance | Drama",
+    "stars": "Sunny Kaushal, Radhika Madan, Mohit Raina",
+    "director": "Kunal Deshmukh",
+    "langs": "Hindi",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#prfvqn",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/shiddat-2021-hindi-webrip-fulll-movie/"
+  },
+  {
+    "id": "movie_312d6200bd",
+    "title": "Doraemon the Movie: Nobita’s Little Star Wars 2021",
+    "year": "2021",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/u5sFU0Uw3qtFOeWNvnhLAt9JzbA.jpg",
+    "rating": "",
+    "genres": "Animation | Science Fiction | Adventure | Family | Fantasy | Comedy",
+    "stars": "Wasabi Mizuta, Megumi Oohara, Yumi Kakazu",
+    "director": "Susumu Yamaguchi",
+    "langs": "Hindi, Japanese",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#n5s3is",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/doraemon-the-movie-nobitas-little-star-wars-2021-2022-bluray-hindi-full-movie/"
+  },
+  {
+    "id": "movie_5c86c904aa",
+    "title": "Tuck Jagadish",
+    "year": "2021",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/dwRfi1cV9oKjVEll12DJqjLWyOD.jpg",
+    "rating": "",
+    "genres": "Drama | Action | Family",
+    "stars": "Nani, Ritu Varma, Jagapati Babu",
+    "director": "Shiva Nirvana",
+    "langs": "Hindi, Telugu",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#ikitkg",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/tuck-jagadish-2021-uncut-webrip-hindi-full-movie/"
+  },
+  {
+    "id": "movie_a407987897",
+    "title": "The Call",
+    "year": "2020",
+    "type": "Movie",
+    "img": "https://image.tmdb.org/t/p/w400/iKmykghTmvQj6zum79TsdUL5mPF.jpg",
+    "rating": "",
+    "genres": "Horror | Thriller",
+    "stars": "Lin Shaye, Tobin Bell, Chester Rushing",
+    "director": "Timothy Woodward Jr.",
+    "langs": "Hindi, English",
+    "Movie": [
+      {
+        "server1": "https://hubstream.art/#vbygtd",
+        "server2": "",
+        "server3": "",
+        "server4": "",
+        "server5": ""
+      }
+    ],
+    "sourceUrl": "https://new2.hdhub4u.cl/the-call-2020-bluray-hindi-full-movie/"
   }
 ]
