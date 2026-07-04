@@ -1,7 +1,7 @@
 [
   {
     "id": "movie_1783154390452",
-    "title": "Alpha",
+    "title": "Alpha",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
     "rating": "",
@@ -21,7 +21,7 @@
   },
   {
     "id": "movie_44d74573d7",
-    "title": "Made in Korea",
+    "title": "Made in Korea",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/foEObhyAMM3dxYeBEr242EdQDB7.jpg",
@@ -43,7 +43,7 @@
   },
   {
     "id": "movie_bb9d81672d",
-    "title": "Parasakthi",
+    "title": "Parasakthi",
     "year": "2026",
     "type": "Movie",
     "img": "https://i1.wp.com/catimages.org/images/2026/03/12/Parasakthi-2026-HIndi-Dubbed-Trailer-HDHub4u.Ms.jpg?ssl=1",
@@ -65,7 +65,7 @@
   },
   {
     "id": "movie_f8ceb60078",
-    "title": "Sankalp",
+    "title": "Sankalp",
     "year": "",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/pEDJjtxj1PPd10PvJLo9w9RlQx6.jpg",
@@ -87,7 +87,7 @@
   },
   {
     "id": "movie_269b5b84e9",
-    "title": "Pennum Porattum",
+    "title": "Pennum Porattum",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/03/13/Pennum-Porattum-2026-HDHub4u.Ms.jpg",
@@ -109,7 +109,7 @@
   },
   {
     "id": "movie_d848ff5d27",
-    "title": "Turbulence",
+    "title": "Turbulence",
     "year": "2025",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
@@ -131,7 +131,7 @@
   },
   {
     "id": "movie_b293bbaa28",
-    "title": "Funky",
+    "title": "Funky",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
@@ -153,7 +153,7 @@
   },
   {
     "id": "movie_79b992fe86",
-    "title": "The Taj Story",
+    "title": "The Taj Story",
     "year": "2025",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/6oMIAvdPWFbwowAq7Zn8unbREAY.jpg",
@@ -175,7 +175,7 @@
   },
   {
     "id": "movie_04faa1d282",
-    "title": "Aspirants",
+    "title": "Aspirants",
     "year": "",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/uCMUO2bOuPGG4VN0I3DTWz8bjEd.jpg",
@@ -197,7 +197,7 @@
   },
   {
     "id": "movie_7c7fa4054f",
-    "title": "Paan Singh Tomar",
+    "title": "Paan Singh Tomar",
     "year": "2012",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
@@ -219,7 +219,7 @@
   },
   {
     "id": "movie_dd8556966b",
-    "title": "Good Fortune",
+    "title": "Good Fortune",
     "year": "2025",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
@@ -241,7 +241,7 @@
   },
   {
     "id": "movie_4d05116e6d",
-    "title": "Fatal Seduction",
+    "title": "Fatal Seduction",
     "year": "",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/8tdvvswffPzXqbV5auzrMUzLmPY.jpg",
@@ -263,7 +263,7 @@
   },
   {
     "id": "movie_6189640045",
-    "title": "That Night",
+    "title": "That Night",
     "year": "",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/xOB3odcE8pbTPK0FHzfwgRTneoS.jpg",
@@ -285,7 +285,7 @@
   },
   {
     "id": "movie_e61aa831d0",
-    "title": "Parasakthi",
+    "title": "Parasakthi",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/03/14/Parasakthi-2025-Hindi-Dubbed-Full-Movie-HDHub4u.Ms.jpg",
@@ -307,7 +307,7 @@
   },
   {
     "id": "movie_a1de957052",
-    "title": "Ghost in the Shell: Arise – Border 2: Ghost Whispers",
+    "title": "Ghost in the Shell: Arise – Border 2: Ghost Whispers",
     "year": "2013",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.2.Ghost.Whispers.2013.jpg",
@@ -329,7 +329,7 @@
   },
   {
     "id": "movie_5e67cf9127",
-    "title": "Ghost in the Shell: Arise – Border 3: Ghost Tears",
+    "title": "Ghost in the Shell: Arise – Border 3: Ghost Tears",
     "year": "2014",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.3.Ghost.Tears.2014..jpg",
@@ -351,7 +351,7 @@
   },
   {
     "id": "movie_3ce15afbed",
-    "title": "Ghost in the Shell: Arise – Border 4: Ghost Stands Alone",
+    "title": "Ghost in the Shell: Arise – Border 4: Ghost Stands Alone",
     "year": "2014",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.4.Ghosts.Stands.Alone.2014.jpg",
@@ -373,7 +373,7 @@
   },
   {
     "id": "movie_2eab2809ae",
-    "title": "Legend of the Demon Cat",
+    "title": "Legend of the Demon Cat",
     "year": "2017",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Legend.of.the.Demon.Cat.2017..jpg",
@@ -395,7 +395,7 @@
   },
   {
     "id": "movie_588bc94cd9",
-    "title": "Megamind",
+    "title": "Megamind",
     "year": "2010",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Megamind.2010.jpg",
@@ -417,7 +417,7 @@
   },
   {
     "id": "movie_d64aab0895",
-    "title": "Merry Little Batman",
+    "title": "Merry Little Batman",
     "year": "2023",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Merry.Little.Batman.2023..jpg",
@@ -439,7 +439,7 @@
   },
   {
     "id": "movie_a5ccd535d2",
-    "title": "Ghost in the Shell: Arise – Border 1: Ghost Pain",
+    "title": "Ghost in the Shell: Arise – Border 1: Ghost Pain",
     "year": "2013",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/15/Ghost.in.the.Shell.ARISE.border.1.Ghost.Pain.2013..jpg",
@@ -461,7 +461,7 @@
   },
   {
     "id": "movie_7470cbd9d3",
-    "title": "Now You See Me: Now You Don’t",
+    "title": "Now You See Me: Now You Don’t",
     "year": "2025",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/mRWxtgMNy01gRVMZpBc4C4WKylY.jpg",
@@ -483,7 +483,7 @@
   },
   {
     "id": "movie_0df217d721",
-    "title": "Sardar",
+    "title": "Sardar",
     "year": "2022",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/e1gmk77vXHavz9PFj9xt39vtyrc.jpg",
@@ -505,7 +505,7 @@
   },
   {
     "id": "movie_08216812dc",
-    "title": "Predator 2",
+    "title": "Predator 2",
     "year": "1990",
     "type": "Movie",
     "img": "https://imgshare.info/images/2026/03/17/Predator.2.1990.jpg",
@@ -527,7 +527,7 @@
   },
   {
     "id": "movie_b7a0a15fcc",
-    "title": "Made in Korea",
+    "title": "Made in Korea",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/foEObhyAMM3dxYeBEr242EdQDB7.jpg",
@@ -549,7 +549,7 @@
   },
   {
     "id": "movie_4eb70ae7bc",
-    "title": "Pennum Porattum",
+    "title": "Pennum Porattum",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/03/13/Pennum-Porattum-2026-HDHub4u.Ms.jpg",
@@ -571,7 +571,7 @@
   },
   {
     "id": "movie_1e3b743d2e",
-    "title": "Funky",
+    "title": "Funky",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
@@ -593,7 +593,7 @@
   },
   {
     "id": "movie_841656b373",
-    "title": "Parasakthi",
+    "title": "Parasakthi",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/03/14/Parasakthi-2025-Hindi-Dubbed-Full-Movie-HDHub4u.Ms.jpg",
@@ -615,7 +615,7 @@
   },
   {
     "id": "movie_d56a2a2466",
-    "title": "Preschool",
+    "title": "Preschool",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
@@ -637,7 +637,7 @@
   },
   {
     "id": "movie_bb1bbca0fa",
-    "title": "One Mile: Chapter Two",
+    "title": "One Mile: Chapter Two",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/3sjc9qXXmQoUWKQ3qIjS1nZaUJy.jpg",
@@ -659,7 +659,7 @@
   },
   {
     "id": "movie_1322acac79",
-    "title": "Deor De Viaah Vich Nach Lain De",
+    "title": "Deor De Viaah Vich Nach Lain De",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/03/20/Deor-De-Viaah-Vich-Nach-Lain-De-Poster.jpg",
@@ -681,7 +681,7 @@
   },
   {
     "id": "movie_fe0a27968a",
-    "title": "Border 2",
+    "title": "Border 2",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg",
@@ -703,7 +703,7 @@
   },
   {
     "id": "movie_3d44ce0913",
-    "title": "Vishnu Vinyasam",
+    "title": "Vishnu Vinyasam",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/fKYnjoPahCSo9KJV1c5yORbthCF.jpg",
@@ -725,7 +725,7 @@
   },
   {
     "id": "movie_abd32e8d46",
-    "title": "Peaky Blinders: The Immortal Man",
+    "title": "Peaky Blinders: The Immortal Man",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/mKSnqcEOpr2hUq7moF4bJVBGZcO.jpg",
@@ -747,7 +747,7 @@
   },
   {
     "id": "movie_32ecc170a4",
-    "title": "Agent Zeta",
+    "title": "Agent Zeta",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
@@ -769,7 +769,7 @@
   },
   {
     "id": "movie_4a73630500",
-    "title": "O’ Romeo",
+    "title": "O’ Romeo",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/2raQOPxWxnY30x4gwg93O2eOblR.jpg",
@@ -791,7 +791,7 @@
   },
   {
     "id": "movie_38764604b9",
-    "title": "Mardaani 3",
+    "title": "Mardaani 3",
     "year": "2026",
     "type": "Movie",
     "img": "https://i3.wp.com/image.tmdb.org/t/p/w500/dHxLBtHw4InwsVumnthupZYz6NM.jpg?ssl=1",
@@ -813,7 +813,7 @@
   },
   {
     "id": "movie_ffd114417d",
-    "title": "Dhurandhar: The Revenge",
+    "title": "Dhurandhar: The Revenge",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/qij4kD9zQXiEByqwBuHOjWwPgCz.jpg",
@@ -835,7 +835,7 @@
   },
   {
     "id": "movie_7b6e0ecf81",
-    "title": "The Red Line",
+    "title": "The Red Line",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
@@ -857,7 +857,7 @@
   },
   {
     "id": "movie_ba58a808ec",
-    "title": "Scream 7",
+    "title": "Scream 7",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/nDoicT2EXLfXtzxaVyqP2HdB7Js.jpg",
@@ -879,7 +879,7 @@
   },
   {
     "id": "movie_91e48dcdaa",
-    "title": "My Lord",
+    "title": "My Lord",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/4KeSDSdO327dOYcjbkeQPJ9c73I.jpg",
@@ -901,7 +901,7 @@
   },
   {
     "id": "movie_4c52bec56d",
-    "title": "Humint",
+    "title": "Humint",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
@@ -923,7 +923,7 @@
   },
   {
     "id": "movie_63a0c6cca0",
-    "title": "Happy Patel: Khatarnak Jasoos",
+    "title": "Happy Patel: Khatarnak Jasoos",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/nFwtiL6qafMhn0oGkTYZQNP0WxG.jpg",
@@ -945,7 +945,7 @@
   },
   {
     "id": "movie_8bae585363",
-    "title": "Crime 101",
+    "title": "Crime 101",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/04/01/vlcsnap-2026-04-01-00h28m52s539.th.jpg",
@@ -967,7 +967,7 @@
   },
   {
     "id": "movie_44ae37a40f",
-    "title": "Vadh 2",
+    "title": "Vadh 2",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/pOJAaLMsc7T5rwVDTA7SRg9SAEU.jpg",
@@ -989,7 +989,7 @@
   },
   {
     "id": "movie_ee6a45e8d2",
-    "title": "Mrithyunjay",
+    "title": "Mrithyunjay",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": "movie_7fca253e0a",
-    "title": "Sampradayini Suppini Suddapoosani",
+    "title": "Sampradayini Suppini Suddapoosani",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/5NaXPthSsxJHo5Br0IIiLYz0z3w.jpg",
@@ -1033,7 +1033,7 @@
   },
   {
     "id": "movie_3a994e2deb",
-    "title": "Bhabiji Ghar Par Hain: Fun on the Run",
+    "title": "Bhabiji Ghar Par Hain: Fun on the Run",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/v8G1NudtXq7BP56TgmAfpDx10FQ.jpg",
@@ -1055,7 +1055,7 @@
   },
   {
     "id": "movie_33cf83cb98",
-    "title": "Feel My Voice",
+    "title": "Feel My Voice",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
@@ -1077,7 +1077,7 @@
   },
   {
     "id": "movie_0c2b1b97f9",
-    "title": "Bhartha Mahasayulaku Wignyapthi",
+    "title": "Bhartha Mahasayulaku Wignyapthi",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/04/05/Bhartha.Mahasayulaku.Wignyapthi.2026.Hindi.Dubbed.HDRip.Full.Movie-HDHub4u.Ms.jpg",
@@ -1099,7 +1099,7 @@
   },
   {
     "id": "movie_a89ec85779",
-    "title": "Repu Udayam 10 Gantalaku",
+    "title": "Repu Udayam 10 Gantalaku",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ivduzvxeVnzyEDeV1zTwcc91vbA.jpg",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "movie_073b9c71e1",
-    "title": "Do Not Enter",
+    "title": "Do Not Enter",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/stM9N7eJmHKLmFR59JG4tLdN7Wk.jpg",
@@ -1143,7 +1143,7 @@
   },
   {
     "id": "movie_fa93c963a7",
-    "title": "Tu Yaa Main",
+    "title": "Tu Yaa Main",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/8SBPnutoZsDYAsb0Pup2ofGDrL4.jpg",
@@ -1165,7 +1165,7 @@
   },
   {
     "id": "movie_42cfdc66a3",
-    "title": "Thaai Kizhavi",
+    "title": "Thaai Kizhavi",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
@@ -1187,7 +1187,7 @@
   },
   {
     "id": "movie_1a7336660f",
-    "title": "Toh Ti Ani Fuji",
+    "title": "Toh Ti Ani Fuji",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/1JGkVOvJZEwVOHzmdRvkc7dPI6r.jpg",
@@ -1209,7 +1209,7 @@
   },
   {
     "id": "movie_f6eb878588",
-    "title": "Everybody Loves Sohrab Handa",
+    "title": "Everybody Loves Sohrab Handa",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/A3zKx7XpXY1ykL8CLbyCN0OCsT8.jpg",
@@ -1231,7 +1231,7 @@
   },
   {
     "id": "movie_7e3de4b0ac",
-    "title": "Jana Nayagan",
+    "title": "Jana Nayagan",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/cQ3Wv2qEoA59KRF29pKXpHKWtuw.jpg",
@@ -1253,7 +1253,7 @@
   },
   {
     "id": "movie_c47766e875",
-    "title": "Thrash",
+    "title": "Thrash",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/adk8weka3O5648g3de4z3y4aE7G.jpg",
@@ -1275,7 +1275,7 @@
   },
   {
     "id": "movie_f9ffa832d1",
-    "title": "Ready or Not 2: Here I Come",
+    "title": "Ready or Not 2: Here I Come",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/w562ch8LaTTv6a8W5WK1S2YKj8u.jpg",
@@ -1297,7 +1297,7 @@
   },
   {
     "id": "movie_b51163c691",
-    "title": "Reminders of Him",
+    "title": "Reminders of Him",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
@@ -1319,7 +1319,7 @@
   },
   {
     "id": "movie_161a4a91ef",
-    "title": "Sambhavam Adhyayam Onnu",
+    "title": "Sambhavam Adhyayam Onnu",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/oPcv2FhyCijAT1Kf0YerszsxYIf.jpg",
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "movie_9a32f183bd",
-    "title": "Toaster",
+    "title": "Toaster",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/2bbiHdMr3ibvJBGXaeq7RoFc6rK.jpg",
@@ -1363,7 +1363,7 @@
   },
   {
     "id": "movie_d9f044bc48",
-    "title": "Balls Up",
+    "title": "Balls Up",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
@@ -1385,7 +1385,7 @@
   },
   {
     "id": "movie_340e676d23",
-    "title": "Wardriver",
+    "title": "Wardriver",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ipTXhWCJgeg5RN0CpmFZYDzOzQi.jpg",
@@ -1407,7 +1407,7 @@
   },
   {
     "id": "movie_7b97edc631",
-    "title": "Youth",
+    "title": "Youth",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/hUUBanUbnjhhVwz0Iy6R0D1iXjW.jpg",
@@ -1429,7 +1429,7 @@
   },
   {
     "id": "movie_db72ee1d18",
-    "title": "Ustaad Bhagat Singh",
+    "title": "Ustaad Bhagat Singh",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": "movie_f47d5f5423",
-    "title": "Assi",
+    "title": "Assi",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg",
@@ -1473,7 +1473,7 @@
   },
   {
     "id": "movie_5827725e48",
-    "title": "Do Deewane Seher Mein",
+    "title": "Do Deewane Seher Mein",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",
@@ -1495,7 +1495,7 @@
   },
   {
     "id": "movie_a3b3db1281",
-    "title": "Suyodhana",
+    "title": "Suyodhana",
     "year": "2026",
     "type": "Movie",
     "img": "https://i2.wp.com/image.tmdb.org/t/p/w500/s56x3fGTN6J1jbBMBDnLY7t4iyU.jpg?ssl=1",
@@ -1517,7 +1517,7 @@
   },
   {
     "id": "movie_ea0ed735a8",
-    "title": "Valathu Vashathe Kallan",
+    "title": "Valathu Vashathe Kallan",
     "year": "2026",
     "type": "Movie",
     "img": "https://i0.wp.com/image.tmdb.org/t/p/w500/uACEmeokX7MRgxzj8n427OcN8HK.jpg?ssl=1",
@@ -1539,7 +1539,7 @@
   },
   {
     "id": "movie_f31dd14e64",
-    "title": "180",
+    "title": "180",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/pzB14bHFzTpmbdWmYaSXXY5iCRy.jpg",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "movie_724c08ef65",
-    "title": "Vengeance",
+    "title": "Vengeance",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
@@ -1583,7 +1583,7 @@
   },
   {
     "id": "movie_d08b877b9e",
-    "title": "Pallichattambi",
+    "title": "Pallichattambi",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/04/19/Pallichattambi-2026-HDHub4u.Ms.jpg",
@@ -1605,7 +1605,7 @@
   },
   {
     "id": "movie_e600992a11",
-    "title": "WWE WrestleMania 42 – Saturday",
+    "title": "WWE WrestleMania 42 – Saturday",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/axfOsqQbc7Uj09JQ82kMnNB8yWO.jpg",
@@ -1627,7 +1627,7 @@
   },
   {
     "id": "movie_5538198db2",
-    "title": "WWE WrestleMania 42 Sunday",
+    "title": "WWE WrestleMania 42 Sunday",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/1wA1uEoVY9QL2JGhNSGecue8euP.jpg",
@@ -1649,7 +1649,7 @@
   },
   {
     "id": "movie_5f81016abf",
-    "title": "Nee Forever",
+    "title": "Nee Forever",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/qEYp2LgileilGofZVVLL8Juuh2G.jpg",
@@ -1671,7 +1671,7 @@
   },
   {
     "id": "movie_610ef9efa2",
-    "title": "Prathichaya",
+    "title": "Prathichaya",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/o69YKFd5WSwX1f9PBG47QfcGzX4.jpg",
@@ -1693,7 +1693,7 @@
   },
   {
     "id": "movie_abf1e27686",
-    "title": "Nukkad Naatak",
+    "title": "Nukkad Naatak",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ouT4jOENHVyQ1tvrVK78CP9CBoq.jpg",
@@ -1715,7 +1715,7 @@
   },
   {
     "id": "movie_944ef94ccc",
-    "title": "Greenland 2: Migration",
+    "title": "Greenland 2: Migration",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",
@@ -1737,7 +1737,7 @@
   },
   {
     "id": "movie_ff213ac279",
-    "title": "Apex",
+    "title": "Apex",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/5TGSFX6dxYfM2balJrFoSVB42Nv.jpg",
@@ -1759,7 +1759,7 @@
   },
   {
     "id": "movie_bd38175cd4",
-    "title": "They Will Kill You",
+    "title": "They Will Kill You",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
@@ -1781,7 +1781,7 @@
   },
   {
     "id": "movie_1251c3dfc2",
-    "title": "Bhooth Bangla",
+    "title": "Bhooth Bangla",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
@@ -1803,7 +1803,7 @@
   },
   {
     "id": "movie_f3f5db3325",
-    "title": "Aadu 3",
+    "title": "Aadu 3",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/p7rIyCYBW6txQJOixQ8X39HMNSH.jpg",
@@ -1825,7 +1825,7 @@
   },
   {
     "id": "movie_88493ff640",
-    "title": "Project Y",
+    "title": "Project Y",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": "movie_eee3e4076b",
-    "title": "Biker",
+    "title": "Biker",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg",
@@ -1869,7 +1869,7 @@
   },
   {
     "id": "movie_917c09aca3",
-    "title": "The Kerala Story 2 Goes Beyond",
+    "title": "The Kerala Story 2 Goes Beyond",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "movie_820f38f645",
-    "title": "The Whisper",
+    "title": "The Whisper",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/eeBz8doK8ZHZD4IcPnWw4G8rZUb.jpg",
@@ -1913,7 +1913,7 @@
   },
   {
     "id": "movie_17ec751b51",
-    "title": "Ek Din",
+    "title": "Ek Din",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/yYkJylaY1TJT9iEBkWnc2Tiw6jN.jpg",
@@ -1935,7 +1935,7 @@
   },
   {
     "id": "movie_0cf6cd3ca7",
-    "title": "Pitt Siyapa",
+    "title": "Pitt Siyapa",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/pee6fD1cudLr0Fbj4F37S49XjUH.jpg",
@@ -1957,7 +1957,7 @@
   },
   {
     "id": "movie_e8ab354b60",
-    "title": "Happy Raj",
+    "title": "Happy Raj",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/hHJlk5VABzAyxUijIAeo8CzkfLa.jpg",
@@ -1979,7 +1979,7 @@
   },
   {
     "id": "movie_5682d987a6",
-    "title": "Love Insurance Kompany",
+    "title": "Love Insurance Kompany",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
@@ -2001,7 +2001,7 @@
   },
   {
     "id": "movie_85110a7304",
-    "title": "Swapped",
+    "title": "Swapped",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
@@ -2023,7 +2023,7 @@
   },
   {
     "id": "movie_6a57faa811",
-    "title": "Jana Nayagan",
+    "title": "Jana Nayagan",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/05/03/Jana-Nayagan-2026-Hindi-Dubbed-HDRip-Full-Movie-HDHub4u-Ms.jpg",
@@ -2045,7 +2045,7 @@
   },
   {
     "id": "movie_70b1775e17",
-    "title": "Bharathanatyam 2 Mohiniyattam",
+    "title": "Bharathanatyam 2 Mohiniyattam",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/qOxz8X9FK3aOE9AtKnwp8ZZQDob.jpg",
@@ -2067,7 +2067,7 @@
   },
   {
     "id": "movie_bd2fba1436",
-    "title": "Vaazha II: Biopic of a Billion Bros",
+    "title": "Vaazha II: Biopic of a Billion Bros",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/pG7wvWCmZ0eY5ag1F194xIyxfFD.jpg",
@@ -2089,7 +2089,7 @@
   },
   {
     "id": "movie_f57ffdeca7",
-    "title": "No Place to Be Single",
+    "title": "No Place to Be Single",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
@@ -2111,7 +2111,7 @@
   },
   {
     "id": "movie_a3a6cd7c6b",
-    "title": "Fantasy Life",
+    "title": "Fantasy Life",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/e0qtdCm7TJGRfMv0tmdP8DsOy3U.jpg",
@@ -2133,7 +2133,7 @@
   },
   {
     "id": "movie_bc10be96cc",
-    "title": "WWE Backlash Tampa",
+    "title": "WWE Backlash Tampa",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/9gDVet6WRuNXo4AZ4KynbA3KcT2.jpg",
@@ -2155,7 +2155,7 @@
   },
   {
     "id": "movie_169b83096c",
-    "title": "Project Hail Mary",
+    "title": "Project Hail Mary",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
@@ -2177,7 +2177,7 @@
   },
   {
     "id": "movie_33dcd49cc9",
-    "title": "Kaalidas 2",
+    "title": "Kaalidas 2",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/qZR3euvzufCE6rgMIlxuM6IwE43.jpg",
@@ -2199,7 +2199,7 @@
   },
   {
     "id": "movie_25a22601a7",
-    "title": "The Punisher: One Last Kill",
+    "title": "The Punisher: One Last Kill",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/o2L0pOWNBxzOkfEW19fYKSEadPV.jpg",
@@ -2221,7 +2221,7 @@
   },
   {
     "id": "movie_b63fa7245b",
-    "title": "Dhurandhar: The Revenge",
+    "title": "Dhurandhar: The Revenge",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg",
@@ -2243,7 +2243,7 @@
   },
   {
     "id": "movie_b51adadff1",
-    "title": "Kartavya",
+    "title": "Kartavya",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/2I689w0K02r5oXawo08W8yNYIzx.jpg",
@@ -2265,7 +2265,7 @@
   },
   {
     "id": "movie_7d7209238f",
-    "title": "Pati Patni Aur Woh Do",
+    "title": "Pati Patni Aur Woh Do",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/cExvVp4TtS7QvtyjPmazT8NE4LL.jpg",
@@ -2287,7 +2287,7 @@
   },
   {
     "id": "movie_de2f21e3e8",
-    "title": "Haye Ni Bebe Meriye",
+    "title": "Haye Ni Bebe Meriye",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ymnx4qjPgi7pSpFaUou7ENRLqte.jpg",
@@ -2309,7 +2309,7 @@
   },
   {
     "id": "movie_c960961795",
-    "title": "Karaa",
+    "title": "Karaa",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/05/17/Karaa-2026-HDHub4u-Poster.jpg",
@@ -2331,7 +2331,7 @@
   },
   {
     "id": "movie_e5ced04f38",
-    "title": "Aakhri Sawal",
+    "title": "Aakhri Sawal",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
@@ -2353,7 +2353,7 @@
   },
   {
     "id": "movie_691c38c7c0",
-    "title": "Indian Institute of Zombies",
+    "title": "Indian Institute of Zombies",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/PjQ2Aj7MAiBmcIf3oT8lSIhv8P.jpg",
@@ -2375,7 +2375,7 @@
   },
   {
     "id": "movie_c2cd7058fc",
-    "title": "Krishnavataram Part 1: The Heart",
+    "title": "Krishnavataram Part 1: The Heart",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
@@ -2397,7 +2397,7 @@
   },
   {
     "id": "movie_da2758eedf",
-    "title": "The Super Mario Galaxy Movie",
+    "title": "The Super Mario Galaxy Movie",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/5fSaYfYvVGimPyHvXtNDYWaDAdS.jpg",
@@ -2419,7 +2419,7 @@
   },
   {
     "id": "movie_bfc649e816",
-    "title": "War of Shera",
+    "title": "War of Shera",
     "year": "2026",
     "type": "Movie",
     "img": "https://catimages.co/images/2026/05/20/Shera-2026-HDHub4u.Ms.jpg",
@@ -2441,7 +2441,7 @@
   },
   {
     "id": "movie_1b7fbbf636",
-    "title": "Tom Clancy’s Jack Ryan: Ghost War",
+    "title": "Tom Clancy’s Jack Ryan: Ghost War",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/vjUWJXdd275UYJDzblaNPZp9319.jpg",
@@ -2463,7 +2463,7 @@
   },
   {
     "id": "movie_0f68dc8e23",
-    "title": "Madhuvidhu",
+    "title": "Madhuvidhu",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
@@ -2485,7 +2485,7 @@
   },
   {
     "id": "movie_7c9ff4d9e1",
-    "title": "Ishqa’n De Lekhe",
+    "title": "Ishqa’n De Lekhe",
     "year": "2026",
     "type": "Movie",
     "img": "https://media.themoviedb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
@@ -2507,7 +2507,7 @@
   },
   {
     "id": "movie_5242eb899b",
-    "title": "System",
+    "title": "System",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
@@ -2529,7 +2529,7 @@
   },
   {
     "id": "movie_46997e1cab",
-    "title": "Gaayapadda Simham",
+    "title": "Gaayapadda Simham",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/dx40U1uLHwBpdbVxIMC57jyIAaf.jpg",
@@ -2551,7 +2551,7 @@
   },
   {
     "id": "movie_b60abeb07a",
-    "title": "Panda Plan 2: The Magical Tribe",
+    "title": "Panda Plan 2: The Magical Tribe",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/asrLPsZMg75SxN1BooggGmpBwRO.jpg",
@@ -2573,7 +2573,7 @@
   },
   {
     "id": "movie_25ad1ddbe6",
-    "title": "TN 2026",
+    "title": "TN 2026",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
@@ -2595,7 +2595,7 @@
   },
   {
     "id": "movie_5d4d9de619",
-    "title": "Ladies First",
+    "title": "Ladies First",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
@@ -2617,7 +2617,7 @@
   },
   {
     "id": "movie_cba54e2cbb",
-    "title": "Drishyam 3",
+    "title": "Drishyam 3",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/rgkSpb0rdr0aH3FVgY9pYIWjF0m.jpg",
@@ -2639,7 +2639,7 @@
   },
   {
     "id": "movie_75c98a35ec",
-    "title": "Drishyam 3",
+    "title": "Drishyam 3",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/8oVBgQhjQOJOcFFyJELP7yRrPkn.jpg",
@@ -2661,7 +2661,7 @@
   },
   {
     "id": "movie_6366b45579",
-    "title": "Mermaid",
+    "title": "Mermaid",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/qHpurzepx8ERBtAiGq7bSXpMnDD.jpg",
@@ -2683,7 +2683,7 @@
   },
   {
     "id": "movie_3e94c47fd5",
-    "title": "The Botanist",
+    "title": "The Botanist",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/6lBR3uDf0uOHrBmNf4NSaxtkhlX.jpg",
@@ -2705,7 +2705,7 @@
   },
   {
     "id": "movie_9172c462d3",
-    "title": "Sathi Leelavathi",
+    "title": "Sathi Leelavathi",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/7lRCDsm8vTA8VIdfkDXEe4UK70C.jpg",
@@ -2727,7 +2727,7 @@
   },
   {
     "id": "movie_c434cc485a",
-    "title": "Karikaada",
+    "title": "Karikaada",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/tL0skwRWivuNZHQD89baWynksct.jpg",
@@ -2749,7 +2749,7 @@
   },
   {
     "id": "movie_7f5f91eec0",
-    "title": "Lechindi Mahila Lokam",
+    "title": "Lechindi Mahila Lokam",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/c2t1rNPSGPZMQKuaNJU6od6QqAU.jpg",
@@ -2771,7 +2771,7 @@
   },
   {
     "id": "movie_f5309a9588",
-    "title": "This Is Not a Test",
+    "title": "This Is Not a Test",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/oZqxDDByIei1UVDgw7ZBXJCHHtI.jpg",
@@ -2793,7 +2793,7 @@
   },
   {
     "id": "movie_96e81a7c60",
-    "title": "Nawab Cafe",
+    "title": "Nawab Cafe",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w400/mZ3By7MbNzMx2ANQ9MdYnwMYlQ3.jpg",
@@ -2815,7 +2815,7 @@
   },
   {
     "id": "movie_b83e6c56a2",
-    "title": "Kara",
+    "title": "Kara",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/kithkpIlhyjoUtUcBL0NuvVGzK4.jpg",
@@ -2837,7 +2837,7 @@
   },
   {
     "id": "movie_7c121f10b6",
-    "title": "Top Cop",
+    "title": "Top Cop",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/iG8ngSJgIki4bvlEi5XeBRiXBfW.jpg",
@@ -2859,7 +2859,7 @@
   },
   {
     "id": "movie_f6a3a738d1",
-    "title": "Lee Cronin’s The Mummy",
+    "title": "Lee Cronin’s The Mummy",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "movie_2f0e88a631",
-    "title": "Kattalan",
+    "title": "Kattalan",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/wT6qCmzLhYJ2ZZ4pxXRaTKxt1tu.jpg",
@@ -2903,7 +2903,7 @@
   },
   {
     "id": "movie_5fef9911a0",
-    "title": "The Great Grand Superhero",
+    "title": "The Great Grand Superhero",
     "year": "2026",
     "type": "Movie",
     "img": "https://image.tmdb.org/t/p/w500/nkrJSbcehWq4gNOP7eSsM1weRNc.jpg",
